@@ -1,0 +1,20 @@
+//
+// GAME.RC2 - resources Microsoft Visual C++ does not edit directly
+//
+
+#ifdef APSTUDIO_INVOKED
+	#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+ 
+/////////////////////////////////////////////////////////////////////////////
+// Add manually edited resources here...
+
+IDSOUND_HIT             sound   res\common\hit.wav
+IDSOUND_HOVER           sound   res\common\hover.wav
+IDSOUND_AHOO            sound   res\common\ahoo.wav
+IDSOUND_FA              sound   res\common\fa.wav
+IDSOUND_MSG             sound   res\common\msg.wav
+IDSOUND_HI              sound   res\common\hi.wav
+
+/////////////////////////////////////////////////////////////////////////////
+

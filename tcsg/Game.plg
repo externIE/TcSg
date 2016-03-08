@@ -1,0 +1,140 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Game - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Game.res" /d "NDEBUG" /d "_AFXDLL" "E:\Project\PC\TcSg\tcsg\Game.rc"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSPFCBC.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_OPEN_ADVERT_" /D "_AFXDLL" /Fr"Release/" /Fp"Release/Game.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\Project\PC\TcSg\tcsg\AutoSetDepositDlg.cpp"
+"E:\Project\PC\TcSg\tcsg\CardMaster.cpp"
+"E:\Project\PC\TcSg\tcsg\Game.cpp"
+"E:\Project\PC\TcSg\tcsg\GameChargeDlg.cpp"
+"E:\Project\PC\TcSg\tcsg\GameInfo.cpp"
+"E:\Project\PC\TcSg\tcsg\GameNotifyEx.cpp"
+"E:\Project\PC\TcSg\tcsg\GameRequest.cpp"
+"E:\Project\PC\TcSg\tcsg\GameSet.cpp"
+"E:\Project\PC\TcSg\tcsg\HtmlDlg.cpp"
+"E:\Project\PC\TcSg\tcsg\MainFrame.cpp"
+"E:\Project\PC\TcSg\tcsg\MyCard.cpp"
+"E:\Project\PC\TcSg\tcsg\MyFileSystem.cpp"
+"E:\Project\PC\TcSg\tcsg\MyFrame.cpp"
+"E:\Project\PC\TcSg\tcsg\MyGame.cpp"
+"E:\Project\PC\TcSg\tcsg\MyPlayer.cpp"
+"E:\Project\PC\TcSg\tcsg\MySubSystem.cpp"
+"E:\Project\PC\TcSg\tcsg\QrcodeCharge.cpp"
+"E:\Project\PC\TcSg\common\TcSg\TcSgTbl.cpp"
+"E:\Project\PC\TcSg\tcsg\TgControls.cpp"
+"E:\Project\PC\TcSg\tcsg\WelfareDialog.cpp"
+]
+Creating command line "cl.exe @"C:\Users\G40-70\AppData\Local\Temp\RSPFCBC.tmp"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSPFCBD.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_OPEN_ADVERT_" /D "_AFXDLL" /Fr"Release/" /Fp"Release/Game.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\Project\PC\TcSg\tcsg\StdAfx.cpp"
+]
+Creating command line "cl.exe @"C:\Users\G40-70\AppData\Local\Temp\RSPFCBD.tmp"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSPFCBE.tmp" with contents
+[
+uwl.lib uwltrace.lib xygame2.lib xygui.lib xyFrame2.lib tcSkin.lib xyapi.lib xyJpeg.lib ShinyNova.lib ShinyNovaPublic.lib cximagecrt.lib tcgsk2.lib xySKBase.lib qrcode.lib TcyCommon.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/tcsg.pdb" /machine:I386 /out:"Release/tcsg.exe" 
+.\Release\AutoSetDepositDlg.obj
+.\Release\CardMaster.obj
+.\Release\Game.obj
+.\Release\GameChargeDlg.obj
+.\Release\GameInfo.obj
+.\Release\GameNotifyEx.obj
+.\Release\GameRequest.obj
+.\Release\GameSet.obj
+.\Release\HtmlDlg.obj
+.\Release\MainFrame.obj
+.\Release\MyCard.obj
+.\Release\MyFileSystem.obj
+.\Release\MyFrame.obj
+.\Release\MyGame.obj
+.\Release\MyPlayer.obj
+.\Release\MySubSystem.obj
+.\Release\QrcodeCharge.obj
+.\Release\StdAfx.obj
+.\Release\TcSgTbl.obj
+.\Release\TgControls.obj
+.\Release\WelfareDialog.obj
+.\Release\Game.res
+]
+Creating command line "link.exe @"C:\Users\G40-70\AppData\Local\Temp\RSPFCBE.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AutoSetDepositDlg.cpp
+CardMaster.cpp
+Game.cpp
+GameChargeDlg.cpp
+GameInfo.cpp
+GameNotifyEx.cpp
+GameRequest.cpp
+GameSet.cpp
+HtmlDlg.cpp
+MainFrame.cpp
+MyCard.cpp
+MyFileSystem.cpp
+MyFrame.cpp
+MyGame.cpp
+MyPlayer.cpp
+MySubSystem.cpp
+QrcodeCharge.cpp
+TcSgTbl.cpp
+TgControls.cpp
+WelfareDialog.cpp
+Generating Code...
+Linking...
+   Creating library Release/tcsg.lib and object Release/tcsg.exp
+LINK : warning LNK4089: all references to "COMCTL32.dll" discarded by /OPT:REF
+LINK : warning LNK4089: all references to "comdlg32.dll" discarded by /OPT:REF
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP10BB.tmp" with contents
+[
+/nologo /o"Release/Game.bsc" 
+.\Release\StdAfx.sbr
+.\Release\AutoSetDepositDlg.sbr
+.\Release\CardMaster.sbr
+.\Release\Game.sbr
+.\Release\GameChargeDlg.sbr
+.\Release\GameInfo.sbr
+.\Release\GameNotifyEx.sbr
+.\Release\GameRequest.sbr
+.\Release\GameSet.sbr
+.\Release\HtmlDlg.sbr
+.\Release\MainFrame.sbr
+.\Release\MyCard.sbr
+.\Release\MyFileSystem.sbr
+.\Release\MyFrame.sbr
+.\Release\MyGame.sbr
+.\Release\MyPlayer.sbr
+.\Release\MySubSystem.sbr
+.\Release\QrcodeCharge.sbr
+.\Release\TcSgTbl.sbr
+.\Release\TgControls.sbr
+.\Release\WelfareDialog.sbr]
+Creating command line "bscmake.exe @"C:\Users\G40-70\AppData\Local\Temp\RSP10BB.tmp""
+Creating browse info file...
+<h3>Output Window</h3>
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP135B.bat" with contents
+[
+@echo off
+copy                   ".\release\tcsg.exe"                "D:\Program Files (x86)\gamechannel\tcsg\tcsg.exe"
+]
+Creating command line ""C:\Users\G40-70\AppData\Local\Temp\RSP135B.bat""
+
+已复制         1 个文件。
+
+
+
+<h3>Results</h3>
+tcsg.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

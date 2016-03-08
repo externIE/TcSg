@@ -1,0 +1,8 @@
+2015/10/21  08:49:59  Starting server....
+2015/10/21  08:49:59  server.IP:192.168.4.63
+2015/10/21  08:49:59  server.PORT:30629
+2015/10/21  08:49:59  server.type:3
+2015/10/21  08:49:59  listen.PORT:31629
+2015/10/21  08:49:59  listen.threadnum:3
+2015/10/21  08:49:59  listen.deadtime:600
+2015/10/21  08:49:59  Server startup OK.

@@ -1,0 +1,100 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TcSgSvr - Win32 ReleaseS--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"ReleaseS/TcSgSvr.res" /d "NDEBUG" /d "_AFXDLL" "E:\Project\PC\TcSg\tcsgsvr\TcSgSvr.rc"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP1F93.tmp" with contents
+[
+/nologo /MD /W3 /GX /Zi /Od /D "UWL_SERVICE" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /FR"ReleaseS/" /Fp"ReleaseS/TcSgSvr.pch" /Yu"stdafx.h" /Fo"ReleaseS/" /Fd"ReleaseS/" /FD /c 
+"E:\Project\PC\TcSg\tcsgsvr\DataRecord.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\Markup.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\MySockClit.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\Server.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\TcSgSvr.cpp"
+"E:\Project\PC\TcSg\common\TcSg\TcSgTbl.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\SOAP\ItemAwardServiceSoap.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\SOAP\soapC.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\SOAP\soapClient.cpp"
+"E:\Project\PC\TcSg\tcsgsvr\SOAP\stdsoap2.cpp"
+]
+Creating command line "cl.exe @"C:\Users\G40-70\AppData\Local\Temp\RSP1F93.tmp"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP1F94.tmp" with contents
+[
+/nologo /MD /W3 /GX /Zi /Od /D "UWL_SERVICE" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /FR"ReleaseS/" /Fp"ReleaseS/TcSgSvr.pch" /Yc"stdafx.h" /Fo"ReleaseS/" /Fd"ReleaseS/" /FD /c 
+"E:\Project\PC\TcSg\tcsgsvr\StdAfx.cpp"
+]
+Creating command line "cl.exe @"C:\Users\G40-70\AppData\Local\Temp\RSP1F94.tmp"" 
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP1F95.tmp" with contents
+[
+tcgament2.lib xygame2.lib xygament2.lib tcgsk2.lib tcgsknt2.lib uwl.lib uwlnt.lib uwltrace.lib tcns.lib xyapi.lib jsoncpp.lib TcyCommon.lib /nologo /subsystem:console /incremental:no /pdb:"ReleaseS/TcSgSvr.pdb" /map:"ReleaseS/TcSgSvr.map" /debug /machine:I386 /out:"ReleaseS/TcSgSvr.exe" /pdbtype:sept 
+.\ReleaseS\DataRecord.obj
+.\ReleaseS\Markup.obj
+.\ReleaseS\MySockClit.obj
+.\ReleaseS\Server.obj
+.\ReleaseS\StdAfx.obj
+.\ReleaseS\TcSgSvr.obj
+.\ReleaseS\TcSgTbl.obj
+.\ReleaseS\ItemAwardServiceSoap.obj
+.\ReleaseS\soapC.obj
+.\ReleaseS\soapClient.obj
+.\ReleaseS\stdsoap2.obj
+.\ReleaseS\TcSgSvr.res
+]
+Creating command line "link.exe @"C:\Users\G40-70\AppData\Local\Temp\RSP1F95.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+DataRecord.cpp
+Markup.cpp
+MySockClit.cpp
+Note: MBCS build (not UTF-8)
+E:\Project\PC\TcSg\tcsgsvr\MySockClit.cpp(56) : warning C4065: switch statement contains 'default' but no 'case' labels
+Server.cpp
+TcSgSvr.cpp
+TcSgTbl.cpp
+ItemAwardServiceSoap.cpp
+soapC.cpp
+soapClient.cpp
+stdsoap2.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP2B59.tmp" with contents
+[
+/nologo /o"ReleaseS/TcSgSvr.bsc" 
+.\ReleaseS\StdAfx.sbr
+.\ReleaseS\DataRecord.sbr
+.\ReleaseS\Markup.sbr
+.\ReleaseS\MySockClit.sbr
+.\ReleaseS\Server.sbr
+.\ReleaseS\TcSgSvr.sbr
+.\ReleaseS\TcSgTbl.sbr
+.\ReleaseS\ItemAwardServiceSoap.sbr
+.\ReleaseS\soapC.sbr
+.\ReleaseS\soapClient.sbr
+.\ReleaseS\stdsoap2.sbr]
+Creating command line "bscmake.exe @"C:\Users\G40-70\AppData\Local\Temp\RSP2B59.tmp""
+Creating browse info file...
+<h3>Output Window</h3>
+Creating temporary file "C:\Users\G40-70\AppData\Local\Temp\RSP2D7C.bat" with contents
+[
+@echo off
+copy .\ReleaseS\*.exe .\..\..\bin
+]
+Creating command line ""C:\Users\G40-70\AppData\Local\Temp\RSP2D7C.bat""
+
+.\ReleaseS\TcSgSvr.exe
+已复制         1 个文件。
+
+
+
+<h3>Results</h3>
+TcSgSvr.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

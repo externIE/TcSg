@@ -1,0 +1,193 @@
+10:55:21  uwlclint.cpp        334:  select() error. errcode: 0, errstr: 操作成功完成。
+. socket = 248
+10:55:21  uwlclint.cpp        111:  connect failed.
+10:56:26  uwlclint.cpp        334:  select() error. errcode: 0, errstr: 操作成功完成。
+. socket = 248
+10:56:26  uwlclint.cpp        111:  connect failed.
+10:57:35  uwlclint.cpp        879:  25 bytes data written. socket = 248
+10:57:35  uwlclint.cpp        404:  socket thread starting.... socket = 248
+10:57:35  uwlclint.cpp        417:  begin thread loop...socket = 248
+10:57:35  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+10:57:35  uwlclint.cpp        879:  144 bytes data written. socket = 248
+10:57:35  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+10:57:35  uwlclint.cpp        588:  160 bytes data read. socket = 248
+10:57:35  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+10:57:35  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+10:57:35  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248
+10:57:37  uwlmac.cpp           46:  adapter count is 1.
+10:57:37  uwlclint.cpp        879:  384 bytes data written. socket = 248
+10:57:37  uwlclint.cpp       1008:  session 2 serial 1 send OK! socket = 248
+10:57:37  uwlclint.cpp        588:  992 bytes data read. socket = 248
+10:57:37  uwlclint.cpp        607:  total received bytes = 1152, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 2, sessionid = 2, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 2, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 1, sessionid = 1, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 1, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 1, sessionid = 2, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 2, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 1, sessionid = 3, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 3, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 1, sessionid = 4, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 4, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        689:  msgtype = 1, sessionid = 5, serialno = 1, socket = 248
+10:57:37  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 5, serialno = 1, socket = 248
+10:57:38  uwlclint.cpp        879:  160 bytes data written. socket = 248
+10:57:38  uwlclint.cpp       1008:  session 3 serial 1 send OK! socket = 248
+10:57:38  uwlclint.cpp        588:  144 bytes data read. socket = 248
+10:57:38  uwlclint.cpp        607:  total received bytes = 1296, socket = 248
+10:57:38  uwlclint.cpp        689:  msgtype = 1, sessionid = 6, serialno = 1, socket = 248
+10:57:38  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 6, serialno = 1, socket = 248
+10:57:38  uwlclint.cpp        879:  464 bytes data written. socket = 248
+10:57:38  uwlclint.cpp       1008:  session 4 serial 1 send OK! socket = 248
+10:57:38  uwlclint.cpp        588:  256 bytes data read. socket = 248
+10:57:38  uwlclint.cpp        607:  total received bytes = 1552, socket = 248
+10:57:38  uwlclint.cpp        689:  msgtype = 2, sessionid = 4, serialno = 1, socket = 248
+10:57:38  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 4, serialno = 1, socket = 248
+10:57:39  uwlclint.cpp        879:  176 bytes data written. socket = 248
+10:57:39  uwlclint.cpp       1008:  session 5 serial 1 send OK! socket = 248
+10:57:39  uwlclint.cpp        588:  144 bytes data read. socket = 248
+10:57:39  uwlclint.cpp        607:  total received bytes = 1696, socket = 248
+10:57:39  uwlclint.cpp        689:  msgtype = 2, sessionid = 5, serialno = 1, socket = 248
+10:57:39  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 5, serialno = 1, socket = 248
+10:57:39  uwlclint.cpp        588:  208 bytes data read. socket = 248
+10:57:39  uwlclint.cpp        607:  total received bytes = 1904, socket = 248
+10:57:39  uwlclint.cpp        689:  msgtype = 1, sessionid = 7, serialno = 1, socket = 248
+10:57:39  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 7, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        879:  160 bytes data written. socket = 248
+10:57:52  uwlclint.cpp       1008:  session 6 serial 1 send OK! socket = 248
+10:57:52  uwlclint.cpp        588:  144 bytes data read. socket = 248
+10:57:52  uwlclint.cpp        607:  total received bytes = 2048, socket = 248
+10:57:52  uwlclint.cpp        689:  msgtype = 1, sessionid = 8, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 8, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        588:  144 bytes data read. socket = 248
+10:57:52  uwlclint.cpp        607:  total received bytes = 2192, socket = 248
+10:57:52  uwlclint.cpp        689:  msgtype = 1, sessionid = 9, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 9, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        879:  160 bytes data written. socket = 248
+10:57:52  uwlclint.cpp       1008:  session 7 serial 1 send OK! socket = 248
+10:57:52  uwlclint.cpp        588:  144 bytes data read. socket = 248
+10:57:52  uwlclint.cpp        607:  total received bytes = 2336, socket = 248
+10:57:52  uwlclint.cpp        689:  msgtype = 1, sessionid = 10, serialno = 1, socket = 248
+10:57:52  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 10, serialno = 1, socket = 248
+10:57:56  uwlclint.cpp        431:  socket io error. we call OnError(). socket = 248, error = 10053
+10:57:56  uwlclint.cpp        457:  socket thread exiting...socket = 248
+10:58:03  uwlsock.cpp         266:  invalid socket handle.
+10:58:05  uwlsock.cpp         266:  invalid socket handle.
+10:58:05  uwlmac.cpp           46:  adapter count is 1.
+10:58:05  uwlsock.cpp         266:  invalid socket handle.
+12:46:27  uwlclint.cpp        879:  25 bytes data written. socket = 248
+12:46:27  uwlclint.cpp        404:  socket thread starting.... socket = 248
+12:46:27  uwlclint.cpp        417:  begin thread loop...socket = 248
+12:46:27  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+12:46:27  uwlclint.cpp        879:  144 bytes data written. socket = 248
+12:46:27  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+12:46:27  uwlclint.cpp        588:  160 bytes data read. socket = 248
+12:46:27  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+12:46:27  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+12:46:27  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248
+12:46:28  uwlmac.cpp           46:  adapter count is 1.
+12:46:28  uwlclint.cpp        879:  384 bytes data written. socket = 248
+12:46:28  uwlclint.cpp       1008:  session 2 serial 1 send OK! socket = 248
+12:46:28  uwlclint.cpp        588:  1520 bytes data read. socket = 248
+12:46:28  uwlclint.cpp        607:  total received bytes = 1680, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 2, sessionid = 2, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 2, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 1, sessionid = 1, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 1, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 1, sessionid = 2, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 2, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 1, sessionid = 3, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 3, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 1, sessionid = 4, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 4, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        689:  msgtype = 1, sessionid = 5, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 5, serialno = 1, socket = 248
+12:46:28  uwlclint.cpp        879:  160 bytes data written. socket = 248
+12:46:28  uwlclint.cpp       1008:  session 3 serial 1 send OK! socket = 248
+12:47:24  uwlclint.cpp        879:  160 bytes data written. socket = 248
+12:47:24  uwlclint.cpp       1008:  session 4 serial 1 send OK! socket = 248
+12:47:24  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:47:24  uwlclint.cpp        607:  total received bytes = 1824, socket = 248
+12:47:24  uwlclint.cpp        689:  msgtype = 1, sessionid = 6, serialno = 1, socket = 248
+12:47:24  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 6, serialno = 1, socket = 248
+12:47:24  uwlclint.cpp        879:  464 bytes data written. socket = 248
+12:47:24  uwlclint.cpp       1008:  session 5 serial 1 send OK! socket = 248
+12:47:24  uwlclint.cpp        588:  256 bytes data read. socket = 248
+12:47:24  uwlclint.cpp        607:  total received bytes = 2080, socket = 248
+12:47:24  uwlclint.cpp        689:  msgtype = 2, sessionid = 5, serialno = 1, socket = 248
+12:47:24  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 5, serialno = 1, socket = 248
+12:47:32  uwlclint.cpp        879:  176 bytes data written. socket = 248
+12:47:32  uwlclint.cpp       1008:  session 6 serial 1 send OK! socket = 248
+12:47:32  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:47:32  uwlclint.cpp        607:  total received bytes = 2224, socket = 248
+12:47:32  uwlclint.cpp        689:  msgtype = 2, sessionid = 6, serialno = 1, socket = 248
+12:47:32  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 6, serialno = 1, socket = 248
+12:47:32  uwlmac.cpp           46:  adapter count is 1.
+12:47:32  uwlclint.cpp        879:  240 bytes data written. socket = 248
+12:47:32  uwlclint.cpp       1008:  session 7 serial 1 send OK! socket = 248
+12:47:32  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:47:32  uwlclint.cpp        607:  total received bytes = 2368, socket = 248
+12:47:32  uwlclint.cpp        689:  msgtype = 1, sessionid = 7, serialno = 1, socket = 248
+12:47:32  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 7, serialno = 1, socket = 248
+12:47:32  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:47:32  uwlclint.cpp        607:  total received bytes = 2512, socket = 248
+12:47:32  uwlclint.cpp        689:  msgtype = 2, sessionid = 7, serialno = 1, socket = 248
+12:47:32  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 7, serialno = 1, socket = 248
+12:48:00  uwlclint.cpp        879:  25 bytes data written. socket = 248
+12:48:00  uwlclint.cpp        404:  socket thread starting.... socket = 248
+12:48:00  uwlclint.cpp        417:  begin thread loop...socket = 248
+12:48:00  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+12:48:00  uwlclint.cpp        879:  144 bytes data written. socket = 248
+12:48:00  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+12:48:00  uwlclint.cpp        588:  160 bytes data read. socket = 248
+12:48:00  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+12:48:00  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+12:48:00  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248
+12:48:01  uwlmac.cpp           46:  adapter count is 1.
+12:48:01  uwlclint.cpp        879:  384 bytes data written. socket = 248
+12:48:01  uwlclint.cpp       1008:  session 2 serial 1 send OK! socket = 248
+12:48:01  uwlclint.cpp        588:  1552 bytes data read. socket = 248
+12:48:01  uwlclint.cpp        607:  total received bytes = 1712, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 2, sessionid = 2, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 2, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 1, sessionid = 1, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 1, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 1, sessionid = 2, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 2, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 1, sessionid = 3, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 3, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 1, sessionid = 4, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 4, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        689:  msgtype = 1, sessionid = 5, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 5, serialno = 1, socket = 248
+12:48:01  uwlclint.cpp        879:  160 bytes data written. socket = 248
+12:48:01  uwlclint.cpp       1008:  session 3 serial 1 send OK! socket = 248
+12:48:02  uwlclint.cpp        879:  160 bytes data written. socket = 248
+12:48:02  uwlclint.cpp       1008:  session 4 serial 1 send OK! socket = 248
+12:48:02  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:48:02  uwlclint.cpp        607:  total received bytes = 1856, socket = 248
+12:48:02  uwlclint.cpp        689:  msgtype = 1, sessionid = 6, serialno = 1, socket = 248
+12:48:02  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 6, serialno = 1, socket = 248
+12:48:02  uwlclint.cpp        879:  464 bytes data written. socket = 248
+12:48:02  uwlclint.cpp       1008:  session 5 serial 1 send OK! socket = 248
+12:48:02  uwlclint.cpp        588:  256 bytes data read. socket = 248
+12:48:02  uwlclint.cpp        607:  total received bytes = 2112, socket = 248
+12:48:02  uwlclint.cpp        689:  msgtype = 2, sessionid = 5, serialno = 1, socket = 248
+12:48:02  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 5, serialno = 1, socket = 248
+12:48:05  uwlclint.cpp        879:  176 bytes data written. socket = 248
+12:48:05  uwlclint.cpp       1008:  session 6 serial 1 send OK! socket = 248
+12:48:05  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:48:05  uwlclint.cpp        607:  total received bytes = 2256, socket = 248
+12:48:05  uwlclint.cpp        689:  msgtype = 2, sessionid = 6, serialno = 1, socket = 248
+12:48:05  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 6, serialno = 1, socket = 248
+12:48:05  uwlmac.cpp           46:  adapter count is 1.
+12:48:05  uwlclint.cpp        879:  240 bytes data written. socket = 248
+12:48:05  uwlclint.cpp       1008:  session 7 serial 1 send OK! socket = 248
+12:48:05  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:48:05  uwlclint.cpp        607:  total received bytes = 2400, socket = 248
+12:48:05  uwlclint.cpp        689:  msgtype = 1, sessionid = 7, serialno = 1, socket = 248
+12:48:05  uwlclint.cpp        725:  msgtype = 1, session completed! sessionid = 7, serialno = 1, socket = 248
+12:48:05  uwlclint.cpp        588:  144 bytes data read. socket = 248
+12:48:05  uwlclint.cpp        607:  total received bytes = 2544, socket = 248
+12:48:05  uwlclint.cpp        689:  msgtype = 2, sessionid = 7, serialno = 1, socket = 248
+12:48:05  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 7, serialno = 1, socket = 248

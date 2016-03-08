@@ -1,0 +1,58 @@
+2016/01/25  21:28:16  Starting server....
+2016/01/25  21:28:16  server.IP:127.0.0.1
+2016/01/25  21:28:16  server.PORT:30629
+2016/01/25  21:28:16  server.type:3
+2016/01/25  21:28:16  listen.PORT:31629
+2016/01/25  21:28:16  listen.threadnum:3
+2016/01/25  21:28:16  listen.deadtime:600
+2016/01/25  21:28:16  Server startup OK.
+2016/01/25  21:29:01  (0xaa0c78)MPConnection ip:192.168.9.63
+2016/01/25  21:29:01  Connect server success! host:127.0.0.1, port:30629
+2016/01/25  21:29:01  (0xaa14d8)s2c original nRequest:70000, nMsgSize:168
+2016/01/25  21:29:01  *******compressed size:85 ,encrypt size:92******
+2016/01/25  21:29:01  *******orignal size:168 ,last size:101******
+2016/01/25  21:29:01  (0xaa14d8)s2c original nRequest:10, nMsgSize:44
+2016/01/25  21:29:01  *******compressed size:23 ,encrypt size:28******
+2016/01/25  21:29:01  *******orignal size:44 ,last size:35******
+2016/01/25  21:29:19  (0xaa0c78) MPConnection::handle_read failed!
+2016/01/25  21:29:19  (0xaa56b0)MPConnection ip:192.168.9.63
+2016/01/25  21:29:19  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2016/01/25  21:29:19  Connect server success! host:127.0.0.1, port:30629
+2016/01/25  21:29:19  (0xaa5f10)s2c original nRequest:70000, nMsgSize:168
+2016/01/25  21:29:19  *******compressed size:84 ,encrypt size:88******
+2016/01/25  21:29:19  *******orignal size:168 ,last size:97******
+2016/01/25  21:29:19  (0xaa5f10)s2c original nRequest:10, nMsgSize:44
+2016/01/25  21:29:19  *******compressed size:23 ,encrypt size:28******
+2016/01/25  21:29:19  *******orignal size:44 ,last size:35******
+2016/01/25  21:29:22  (0xaa56b0) MPConnection::handle_read failed!
+2016/01/25  21:29:22  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2016/01/25  21:29:42  (0xaac8b8)MPConnection ip:192.168.9.63
+2016/01/25  21:29:42  Connect server success! host:127.0.0.1, port:30629
+2016/01/25  21:29:42  (0xaad118)s2c original nRequest:70000, nMsgSize:168
+2016/01/25  21:29:42  *******compressed size:85 ,encrypt size:92******
+2016/01/25  21:29:42  *******orignal size:168 ,last size:101******
+2016/01/25  21:29:42  (0xaad118)s2c original nRequest:10, nMsgSize:44
+2016/01/25  21:29:42  *******compressed size:23 ,encrypt size:28******
+2016/01/25  21:29:42  *******orignal size:44 ,last size:35******
+2016/01/25  21:30:49  (0xaac8b8) MPConnection::handle_read failed!
+2016/01/25  21:30:49  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2016/01/25  21:30:49  (0xaa56b0)MPConnection ip:192.168.9.63
+2016/01/25  21:30:49  Connect server success! host:127.0.0.1, port:30629
+2016/01/25  21:30:49  (0xaa5f10)s2c original nRequest:70000, nMsgSize:168
+2016/01/25  21:30:49  *******compressed size:83 ,encrypt size:88******
+2016/01/25  21:30:49  *******orignal size:168 ,last size:97******
+2016/01/25  21:30:49  (0xaa5f10)s2c original nRequest:10, nMsgSize:44
+2016/01/25  21:30:49  *******compressed size:23 ,encrypt size:28******
+2016/01/25  21:30:49  *******orignal size:44 ,last size:35******
+2016/01/25  21:32:27  (0xaa56b0) MPConnection::handle_read failed!
+2016/01/25  21:32:27  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2016/01/25  21:55:42  (0xaac858)MPConnection ip:192.168.9.63
+2016/01/25  21:55:42  Connect server success! host:127.0.0.1, port:30629
+2016/01/25  21:55:42  (0xaad0b8)s2c original nRequest:70000, nMsgSize:168
+2016/01/25  21:55:42  *******compressed size:85 ,encrypt size:92******
+2016/01/25  21:55:42  *******orignal size:168 ,last size:101******
+2016/01/25  21:55:42  (0xaad0b8)s2c original nRequest:10, nMsgSize:44
+2016/01/25  21:55:42  *******compressed size:23 ,encrypt size:28******
+2016/01/25  21:55:42  *******orignal size:44 ,last size:35******
+2016/01/25  21:56:18  (0xaac858) MPConnection::handle_read failed!
+2016/01/25  21:56:18  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。

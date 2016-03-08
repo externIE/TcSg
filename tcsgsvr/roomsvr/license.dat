@@ -1,0 +1,12 @@
+[LicSettings]
+Product = roomsvr
+Version = 6.00
+Expiration = xxxxxxxx
+StartDate = 20150403
+Days = xxxx
+Connections = xxxxxxxx
+MacAddress = 68F7288A6A11
+Code = 7147483e1ad571e3852c253723027ffb
+[Features]
+clientid=6040010
+

@@ -1,0 +1,23 @@
+2016/02/02  08:43:39  tcsvr built up!
+2016/02/02  08:43:39  tcsvr built up!
+2016/02/02  08:43:39  tcsvr built up!
+2016/02/02  08:43:39  server starting...
+2016/02/02  08:43:39  GetFilterWord() OK!
+2016/02/02  08:43:39  Get_Chat_Forbid() OK!
+2016/02/02  08:43:39  Server startup OK.
+2016/02/02  08:43:39  GameLib 2.0 built up!
+2016/02/02  08:43:40  £½£½£½£½£½£½£½£½InitSoap[soap_welfare] Succeed!cost time: 187ms
+2016/02/02  10:52:21  YaZhu failed: status not TS_WAITING_YAZHU! chair 3, auto: 0
+2016/02/02  11:58:09  QiangZhuang failed: status not TS_WAITING_QZ! chair 3, auto: 0
+2016/02/02  13:16:55  YaZhu failed: status not TS_WAITING_YAZHU! chair 0, auto: 0
+2016/02/02  13:44:48  YaZhu failed: status not TS_WAITING_YAZHU! chair 1, auto: 0
+2016/02/02  13:47:07  QiangZhuang failed, errorID:-17, room:4575, table:1, chair:2, user:115776, auto: 0
+2016/02/02  14:30:32  YaZhu failed: status not TS_WAITING_YAZHU! chair 2, auto: 0
+2016/02/02  16:10:05  YaZhu failed: status not TS_WAITING_YAZHU! chair 3, auto: 0
+2016/02/02  16:30:35  QiangZhuang failed, errorID:-17, room:4574, table:0, chair:3, user:115775, auto: 0
+2016/02/02  16:47:47  YaZhu failed: status not TS_WAITING_YAZHU! chair 1, auto: 0
+2016/02/02  17:08:03  YaZhu failed: status not TS_WAITING_YAZHU! chair 0, auto: 0
+2016/02/02  17:08:47  Game charge info, 115775 will charge from web.
+2016/02/02  17:09:04  Game charge info, 115775 will charge 1(yuan) from qrcode.
+2016/02/02  17:09:45  Game charge info, 115775 will charge 1(yuan) from qrcode.
+2016/02/02  17:29:09  QiangZhuang failed, errorID:-17, room:4573, table:0, chair:2, user:115776, auto: 0

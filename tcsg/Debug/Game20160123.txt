@@ -1,0 +1,50 @@
+12:34:07  uwlclint.cpp        879:  25 bytes data written. socket = 244
+12:34:07  uwlclint.cpp        404:  socket thread starting.... socket = 244
+12:34:07  uwlclint.cpp        417:  begin thread loop...socket = 244
+12:34:07  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 244
+12:34:07  uwlclint.cpp        879:  144 bytes data written. socket = 244
+12:34:07  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 244
+12:34:07  uwlclint.cpp        588:  160 bytes data read. socket = 244
+12:34:07  uwlclint.cpp        607:  total received bytes = 160, socket = 244
+12:34:07  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 244
+12:34:07  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 244
+12:34:25  uwlclint.cpp        879:  25 bytes data written. socket = 232
+12:34:25  uwlclint.cpp        404:  socket thread starting.... socket = 232
+12:34:25  uwlclint.cpp        417:  begin thread loop...socket = 232
+12:34:25  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 232
+12:34:25  uwlclint.cpp        879:  144 bytes data written. socket = 232
+12:34:25  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 232
+12:34:25  uwlclint.cpp        588:  160 bytes data read. socket = 232
+12:34:25  uwlclint.cpp        607:  total received bytes = 160, socket = 232
+12:34:25  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 232
+12:34:25  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 232
+12:34:42  uwlclint.cpp        879:  25 bytes data written. socket = 248
+12:34:42  uwlclint.cpp        404:  socket thread starting.... socket = 248
+12:34:42  uwlclint.cpp        417:  begin thread loop...socket = 248
+12:34:42  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+12:34:42  uwlclint.cpp        879:  144 bytes data written. socket = 248
+12:34:42  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+12:34:42  uwlclint.cpp        588:  160 bytes data read. socket = 248
+12:34:42  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+12:34:42  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+12:34:42  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248
+12:35:05  uwlclint.cpp        879:  25 bytes data written. socket = 248
+12:35:05  uwlclint.cpp        404:  socket thread starting.... socket = 248
+12:35:05  uwlclint.cpp        417:  begin thread loop...socket = 248
+12:35:05  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+12:35:05  uwlclint.cpp        879:  144 bytes data written. socket = 248
+12:35:05  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+12:35:05  uwlclint.cpp        588:  160 bytes data read. socket = 248
+12:35:05  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+12:35:05  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+12:35:05  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248
+14:40:37  uwlclint.cpp        879:  25 bytes data written. socket = 248
+14:40:37  uwlclint.cpp        404:  socket thread starting.... socket = 248
+14:40:37  uwlclint.cpp        417:  begin thread loop...socket = 248
+14:40:37  uwlclint.cpp        426:  UM_SOCKTHRD_QUERY got, we set event, socket = 248
+14:40:37  uwlclint.cpp        879:  144 bytes data written. socket = 248
+14:40:37  uwlclint.cpp       1008:  session 1 serial 1 send OK! socket = 248
+14:40:37  uwlclint.cpp        588:  160 bytes data read. socket = 248
+14:40:37  uwlclint.cpp        607:  total received bytes = 160, socket = 248
+14:40:37  uwlclint.cpp        689:  msgtype = 2, sessionid = 1, serialno = 1, socket = 248
+14:40:37  uwlclint.cpp        770:  msgtype = 2, session completed! sessionid = 1, serialno = 1, socket = 248

@@ -1,0 +1,107 @@
+// Created by Microsoft (R) C/C++ Compiler Version 12.00.8168.0 (7f10f461).
+//
+// e:\project\pc\tcsg\tcsgsvr\releases\XYSoapClient.tlh
+//
+// C++ source equivalent of Win32 type library XYSoapClient.dll
+// compiler-generated file created 02/03/16 at 09:02:56 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace XYSOAPCLIENTLib {
+
+//
+// Forward references and typedefs
+//
+
+struct /* coclass */ XYSoapClient;
+struct __declspec(uuid("56fdbc41-47d1-4175-8116-487b0cb069d7"))
+/* dual interface */ IXYSoapClient;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IXYSoapClient, __uuidof(IXYSoapClient));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("c377bde0-45c3-4eb8-bd80-52d442dc1558"))
+XYSoapClient;
+    // [ default ] interface IXYSoapClient
+
+struct __declspec(uuid("56fdbc41-47d1-4175-8116-487b0cb069d7"))
+IXYSoapClient : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long InitService (
+        _bstr_t WSDL,
+        _bstr_t ServiceName,
+        _bstr_t Port,
+        _bstr_t WSML );
+    long SetClientProperty (
+        _bstr_t PropName,
+        const _variant_t & PropValue );
+    long SetConnectorProperty (
+        _bstr_t PropName,
+        const _variant_t & PropValue );
+    _bstr_t GetLastError ( );
+    _variant_t InvokeMethod (
+        _bstr_t MethodName,
+        const _variant_t & Input1 = vtMissing,
+        const _variant_t & Input2 = vtMissing,
+        const _variant_t & Input3 = vtMissing,
+        const _variant_t & Input4 = vtMissing,
+        const _variant_t & Input5 = vtMissing );
+    _bstr_t SetSoapToolkitVersion (
+        _bstr_t sVersion );
+
+    //
+    // Raw methods provided by interface
+    //
+
+    virtual HRESULT __stdcall raw_InitService (
+        BSTR WSDL,
+        BSTR ServiceName,
+        BSTR Port,
+        BSTR WSML,
+        long * pOutput ) = 0;
+    virtual HRESULT __stdcall raw_SetClientProperty (
+        BSTR PropName,
+        VARIANT PropValue,
+        long * pOutput ) = 0;
+    virtual HRESULT __stdcall raw_SetConnectorProperty (
+        BSTR PropName,
+        VARIANT PropValue,
+        long * pOutput ) = 0;
+    virtual HRESULT __stdcall raw_GetLastError (
+        BSTR * pOutput ) = 0;
+    virtual HRESULT __stdcall raw_InvokeMethod (
+        BSTR MethodName,
+        VARIANT Input1,
+        VARIANT Input2,
+        VARIANT Input3,
+        VARIANT Input4,
+        VARIANT Input5,
+        VARIANT * pOutput ) = 0;
+    virtual HRESULT __stdcall raw_SetSoapToolkitVersion (
+        BSTR sVersion,
+        BSTR * pOutput ) = 0;
+};
+
+//
+// Wrapper method implementations
+//
+
+#include "e:\project\pc\tcsg\tcsgsvr\releases\XYSoapClient.tli"
+
+} // namespace XYSOAPCLIENTLib
+
+#pragma pack(pop)

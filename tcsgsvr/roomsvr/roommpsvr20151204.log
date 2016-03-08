@@ -1,0 +1,706 @@
+2015/12/04  09:50:13  Starting server....
+2015/12/04  09:50:13  server.IP:127.0.0.1
+2015/12/04  09:50:13  server.PORT:30629
+2015/12/04  09:50:13  server.type:3
+2015/12/04  09:50:13  listen.PORT:31629
+2015/12/04  09:50:13  listen.threadnum:3
+2015/12/04  09:50:13  listen.deadtime:600
+2015/12/04  09:50:13  Server startup OK.
+2015/12/04  09:57:55  (0x770c78)MPConnection ip:192.168.9.44
+2015/12/04  09:57:55  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  09:57:55  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  09:57:55  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  09:57:55  (0x7714d8)s2c original nRequest:60030, nMsgSize:8
+2015/12/04  09:57:55  (0x7714d8)s2c encoded nRequest:60030, original*size:8, nMsgSize:43
+2015/12/04  09:58:01  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  09:58:01  (0x7756b0)MPConnection ip:192.168.9.44
+2015/12/04  09:58:01  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  09:58:01  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  09:58:01  (0x775f10)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  09:58:01  (0x775f10)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  09:58:01  (0x775f10)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  09:58:01  (0x775f10)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  09:58:01  (0x775f10)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  09:58:01  (0x775f10)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  09:58:01  (0x775f10)s2c original nRequest:10, nMsgSize:44
+2015/12/04  09:58:01  (0x775f10)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  09:58:46  (0x775f10)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  09:58:46  (0x775f10)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  09:59:46  (0x775f10)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  09:59:46  (0x775f10)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  09:59:55  (0x7756b0) MPConnection::handle_read failed!
+2015/12/04  09:59:55  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:00:45  (0x77e278)MPConnection ip:192.168.9.44
+2015/12/04  10:00:45  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:00:45  (0x77ead8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:00:45  (0x77ead8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:00:45  (0x77ead8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:00:45  (0x77ead8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:00:45  (0x77ead8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:00:45  (0x77ead8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:00:45  (0x77ead8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:00:45  (0x77ead8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:01:05  (0x77e278) MPConnection::handle_read failed!
+2015/12/04  10:01:05  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:02:11  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  10:02:11  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:02:11  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:02:11  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:02:11  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:02:11  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:02:11  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:02:11  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:02:11  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:02:11  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:02:23  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:02:23  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:02:49  (0x77e278)MPConnection ip:192.168.9.44
+2015/12/04  10:02:49  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:02:49  (0x77ead8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:02:49  (0x77ead8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:02:49  (0x77ead8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:02:49  (0x77ead8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:02:49  (0x77ead8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:02:49  (0x77ead8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:02:49  (0x77ead8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:02:49  (0x77ead8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:03:05  (0x77ead8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:03:05  (0x77ead8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  10:03:05  (0x77e278) MPConnection::handle_read failed!
+2015/12/04  10:03:05  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:07:22  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  10:07:22  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:07:22  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:07:22  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:07:22  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:07:22  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:07:22  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:07:22  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:07:22  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:07:22  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:07:33  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:07:33  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  10:07:33  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:07:33  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:09:09  (0x770c78)MPConnection ip:192.168.9.44
+2015/12/04  10:09:09  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:09:09  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:09:09  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:09:10  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:09:10  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  10:09:10  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:09:10  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:09:10  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:09:10  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:09:20  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  10:09:20  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:11:02  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  10:11:02  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:11:02  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:11:02  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:11:02  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:11:02  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:11:02  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:11:02  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:11:02  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:11:02  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:11:14  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:11:14  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:14:38  (0x770c78)MPConnection ip:192.168.9.44
+2015/12/04  10:14:38  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:14:38  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:14:38  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:14:38  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:14:38  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:14:38  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:14:38  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:14:38  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:14:38  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:15:12  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:15:12  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:15:56  (0x784ff0)MPConnection ip:192.168.9.12
+2015/12/04  10:15:56  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:15:56  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:15:56  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:15:56  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:15:56  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  10:15:56  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:15:56  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:15:56  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:15:56  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:16:12  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:16:12  (0x7714d8)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  10:16:39  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:16:39  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  10:16:39  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:16:39  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:16:46  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:16:46  (0x7714d8)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  10:16:46  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  10:16:46  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:40:30  (0x78a868)MPConnection ip:192.168.9.44
+2015/12/04  10:40:30  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:40:30  (0x78b0c8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:40:30  (0x78b0c8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:40:30  (0x78b0c8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:40:30  (0x78b0c8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:40:30  (0x78b0c8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:40:30  (0x78b0c8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:40:30  (0x78b0c8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:40:30  (0x78b0c8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:41:19  (0x78b0c8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:41:19  (0x78b0c8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:41:31  (0x784ff0)MPConnection ip:192.168.9.12
+2015/12/04  10:41:31  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:41:31  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:41:31  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:41:31  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:41:31  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  10:41:31  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:41:31  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:41:31  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:41:31  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:41:46  (0x78b0c8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:41:46  (0x78b0c8)c2s decoded, nSessionId:4, nRequest:30501, nMsgSize:64
+2015/12/04  10:41:46  (0x78a868) MPConnection::handle_read failed!
+2015/12/04  10:41:46  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:42:06  (0x78cc80)MPConnection ip:192.168.9.44
+2015/12/04  10:42:06  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:42:06  (0x78d4e0)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:42:06  (0x78d4e0)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:42:06  (0x78d4e0)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:42:06  (0x78d4e0)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:42:06  (0x78d4e0)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:42:06  (0x78d4e0)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:42:06  (0x78d4e0)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:42:06  (0x78d4e0)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:42:16  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:42:16  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:42:26  (0x78d4e0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:42:26  (0x78d4e0)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:43:16  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:43:16  (0x785850)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  10:44:16  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:44:16  (0x785850)c2s decoded, nSessionId:5, nRequest:30001, nMsgSize:8
+2015/12/04  10:44:26  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:44:26  (0x785850)c2s decoded, nSessionId:6, nRequest:30501, nMsgSize:64
+2015/12/04  10:44:26  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:44:26  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:44:57  (0x78cc80) MPConnection::handle_read failed!
+2015/12/04  10:44:57  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:48:45  (0x78a868)MPConnection ip:192.168.9.44
+2015/12/04  10:48:45  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:48:45  (0x78b0c8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:48:45  (0x78b0c8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:48:45  (0x78b0c8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:48:45  (0x78b0c8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:48:45  (0x78b0c8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:48:45  (0x78b0c8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:48:45  (0x78b0c8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:48:45  (0x78b0c8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:49:01  (0x78a868) MPConnection::handle_read failed!
+2015/12/04  10:49:01  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:51:36  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  10:51:36  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:51:36  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:51:36  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:51:36  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:51:36  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:51:36  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:51:36  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:51:36  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:51:36  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:51:44  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:51:44  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:51:46  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:51:46  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:52:35  (0x77e278)MPConnection ip:192.168.9.44
+2015/12/04  10:52:35  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:52:35  (0x77ead8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:52:35  (0x77ead8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:52:35  (0x77ead8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:52:35  (0x77ead8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:52:35  (0x77ead8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:52:35  (0x77ead8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:52:35  (0x77ead8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:52:35  (0x77ead8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:53:26  (0x77ead8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:53:26  (0x77ead8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:53:57  (0x784ff0)MPConnection ip:192.168.9.63
+2015/12/04  10:53:57  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:53:57  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:53:57  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:53:57  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:53:57  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  10:53:57  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:53:57  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:53:57  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:53:57  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:54:11  (0x77ead8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:54:11  (0x77ead8)c2s decoded, nSessionId:4, nRequest:30501, nMsgSize:64
+2015/12/04  10:54:11  (0x77e278) MPConnection::handle_read failed!
+2015/12/04  10:54:11  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:54:17  (0x78a7a8)MPConnection ip:192.168.9.44
+2015/12/04  10:54:17  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  10:54:17  (0x78b008)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  10:54:17  (0x78b008)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  10:54:17  (0x78b008)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  10:54:17  (0x78b008)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  10:54:17  (0x78b008)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  10:54:17  (0x78b008)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  10:54:17  (0x78b008)s2c original nRequest:10, nMsgSize:44
+2015/12/04  10:54:17  (0x78b008)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  10:54:39  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:54:39  (0x78b008)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:54:50  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  10:54:50  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  10:55:02  (0x78b008)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:55:02  (0x78b008)c2s decoded, nSessionId:4, nRequest:30501, nMsgSize:64
+2015/12/04  10:55:02  (0x78a7a8) MPConnection::handle_read failed!
+2015/12/04  10:55:02  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  10:55:31  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  10:55:31  (0x785850)c2s decoded, nSessionId:4, nRequest:30501, nMsgSize:64
+2015/12/04  10:55:31  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  10:55:31  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:06:29  (0x770c78)MPConnection ip:192.168.9.44
+2015/12/04  11:06:29  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:06:29  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:06:29  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:06:29  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:06:29  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  11:06:29  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:06:29  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:06:29  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:06:29  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:06:37  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  11:06:37  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:06:37  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:06:37  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:06:37  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:06:37  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:06:37  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:06:37  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:06:37  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:06:37  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:06:47  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  11:06:47  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:06:49  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:06:49  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:07:49  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:07:49  (0x7714d8)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:08:23  (0x78a7a8)MPConnection ip:192.168.9.44
+2015/12/04  11:08:23  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:08:23  (0x78b008)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:08:23  (0x78b008)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:08:23  (0x78b008)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:08:23  (0x78b008)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:08:23  (0x78b008)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:08:23  (0x78b008)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:08:23  (0x78b008)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:08:23  (0x78b008)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:08:38  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  11:08:38  (0x7714d8)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  11:08:38  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  11:08:38  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:08:43  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  11:08:43  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:08:43  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:08:44  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:08:44  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:08:44  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:08:44  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:08:44  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:08:44  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:08:44  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:08:48  (0x770c78)MPConnection ip:192.168.9.44
+2015/12/04  11:08:48  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:08:48  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:08:48  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:08:48  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:08:48  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  11:08:48  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:08:48  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:08:48  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:08:48  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:08:53  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:08:53  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:08:54  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:08:54  (0x78b008)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:09:39  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:09:39  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:09:54  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:09:54  (0x7714d8)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:09:56  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:09:56  (0x78b008)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:10:33  (0x78b008)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  11:10:33  (0x78b008)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  11:10:33  (0x78a7a8) MPConnection::handle_read failed!
+2015/12/04  11:10:33  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:10:35  (0x78fd40)MPConnection ip:192.168.9.44
+2015/12/04  11:10:35  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:10:35  (0x7905a0)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:10:35  (0x7905a0)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:10:35  (0x7905a0)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:10:35  (0x7905a0)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:10:35  (0x7905a0)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:10:35  (0x7905a0)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:10:35  (0x7905a0)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:10:35  (0x7905a0)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:10:39  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:10:39  (0x785850)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:10:46  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  11:10:46  (0x7714d8)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  11:10:46  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  11:10:46  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:10:52  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  11:10:52  (0x785850)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  11:10:52  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  11:10:52  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:10:59  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:10:59  (0x7905a0)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:11:13  (0x78a7a8)MPConnection ip:192.168.9.44
+2015/12/04  11:11:13  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:11:13  (0x78b008)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:11:13  (0x78b008)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:11:13  (0x78b008)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:11:13  (0x78b008)s2c encoded nRequest:70000, original*size:168, nMsgSize:129
+2015/12/04  11:11:13  (0x78b008)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:11:13  (0x78b008)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:11:13  (0x78b008)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:11:13  (0x78b008)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:11:15  (0x784ff0)MPConnection ip:192.168.9.44
+2015/12/04  11:11:15  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:11:15  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:11:15  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:11:15  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:11:15  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:11:15  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:11:15  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:11:15  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:11:15  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:11:45  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:11:45  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:12:00  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:12:00  (0x7905a0)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:12:07  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:12:07  (0x78b008)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  11:12:43  (0x770c78)MPConnection ip:192.168.9.63
+2015/12/04  11:12:43  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  11:12:43  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  11:12:43  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  11:12:43  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  11:12:43  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  11:12:43  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  11:12:43  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  11:12:43  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  11:12:43  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  11:12:45  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:12:45  (0x785850)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:12:49  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  11:12:49  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:13:00  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:13:00  (0x7905a0)c2s decoded, nSessionId:5, nRequest:30001, nMsgSize:8
+2015/12/04  11:13:07  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:13:07  (0x78b008)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  11:13:45  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:13:45  (0x785850)c2s decoded, nSessionId:5, nRequest:30001, nMsgSize:8
+2015/12/04  11:14:00  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:14:00  (0x7905a0)c2s decoded, nSessionId:6, nRequest:30001, nMsgSize:8
+2015/12/04  11:14:07  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:14:07  (0x78b008)c2s decoded, nSessionId:5, nRequest:30001, nMsgSize:8
+2015/12/04  11:14:45  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:14:45  (0x785850)c2s decoded, nSessionId:6, nRequest:30001, nMsgSize:8
+2015/12/04  11:15:07  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:15:07  (0x78b008)c2s decoded, nSessionId:6, nRequest:30001, nMsgSize:8
+2015/12/04  11:15:38  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:15:38  (0x7905a0)c2s decoded, nSessionId:7, nRequest:30001, nMsgSize:8
+2015/12/04  11:15:45  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:15:45  (0x785850)c2s decoded, nSessionId:7, nRequest:30001, nMsgSize:8
+2015/12/04  11:16:08  (0x78b008)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:16:08  (0x78b008)c2s decoded, nSessionId:7, nRequest:30001, nMsgSize:8
+2015/12/04  11:16:37  (0x78a7a8) MPConnection::handle_read failed!
+2015/12/04  11:16:37  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:16:37  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  11:16:37  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  11:16:42  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:16:42  (0x7905a0)c2s decoded, nSessionId:8, nRequest:30001, nMsgSize:8
+2015/12/04  11:17:42  (0x7905a0)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  11:17:42  (0x7905a0)c2s decoded, nSessionId:9, nRequest:30001, nMsgSize:8
+2015/12/04  11:17:43  (0x7905a0)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  11:17:43  (0x7905a0)c2s decoded, nSessionId:10, nRequest:30501, nMsgSize:64
+2015/12/04  11:17:43  (0x78fd40) MPConnection::handle_read failed!
+2015/12/04  11:17:43  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  12:52:21  (0x794690)MPConnection ip:192.168.9.123
+2015/12/04  12:52:21  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  12:52:21  (0x794ef0)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  12:52:21  (0x794ef0)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  12:52:21  (0x794ef0)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  12:52:21  (0x794ef0)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  12:52:21  (0x794ef0)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  12:52:21  (0x794ef0)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  12:52:21  (0x794ef0)s2c original nRequest:10, nMsgSize:44
+2015/12/04  12:52:21  (0x794ef0)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  12:52:25  (0x794ef0)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  12:52:25  (0x794ef0)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  12:52:25  (0x794690) MPConnection::handle_read failed!
+2015/12/04  12:52:25  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  12:52:26  (0x784ff0)MPConnection ip:192.168.9.123
+2015/12/04  12:52:26  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  12:52:26  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  12:52:26  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  12:52:27  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  12:52:27  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  12:52:27  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  12:52:27  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  12:52:27  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  12:52:27  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  12:52:29  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  12:52:29  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  12:52:29  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  12:52:29  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  12:52:39  (0x770c78)MPConnection ip:192.168.9.123
+2015/12/04  12:52:39  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  12:52:39  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  12:52:39  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  12:52:39  (0x7714d8)s2c original nRequest:60005, nMsgSize:8
+2015/12/04  12:52:39  (0x7714d8)s2c encoded nRequest:60005, original*size:8, nMsgSize:43
+2015/12/04  12:52:41  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  12:52:41  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  12:52:41  (0x784ff0)MPConnection ip:192.168.9.123
+2015/12/04  12:52:41  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  12:52:41  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  12:52:41  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  12:52:41  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  12:52:41  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  12:52:41  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  12:52:41  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  12:52:41  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  12:52:41  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  12:53:15  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  12:53:15  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  12:53:15  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  12:53:15  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  12:53:54  (0x770c78)MPConnection ip:192.168.9.123
+2015/12/04  12:53:54  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  12:53:54  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  12:53:54  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  12:53:54  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  12:53:54  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  12:53:54  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  12:53:54  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  12:53:54  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  12:53:54  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  12:54:00  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  12:54:00  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  12:54:00  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  12:54:00  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  13:43:57  (0x784ff0)MPConnection ip:192.168.9.123
+2015/12/04  13:43:57  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  13:43:57  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  13:43:57  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  13:43:57  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  13:43:57  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  13:43:57  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  13:43:57  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  13:43:57  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  13:43:57  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  13:44:24  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  13:44:24  (0x785850)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  13:45:25  (0x785850)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  13:45:25  (0x785850)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  13:46:02  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  13:46:02  (0x785850)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  13:46:02  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  13:46:02  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  13:48:48  (0x770c78)MPConnection ip:192.168.9.123
+2015/12/04  13:48:48  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  13:48:48  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  13:48:48  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  13:48:48  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  13:48:48  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  13:48:48  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  13:48:48  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  13:48:48  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  13:48:48  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  13:49:23  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  13:49:23  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  13:50:23  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  13:50:23  (0x7714d8)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  13:51:23  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  13:51:23  (0x7714d8)c2s decoded, nSessionId:5, nRequest:30001, nMsgSize:8
+2015/12/04  13:52:08  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  13:52:08  (0x7714d8)c2s decoded, nSessionId:6, nRequest:30501, nMsgSize:64
+2015/12/04  13:52:08  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  13:52:08  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  14:55:28  (0x784ff0)MPConnection ip:192.168.9.63
+2015/12/04  14:55:28  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  14:55:28  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  14:55:28  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  14:55:28  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  14:55:28  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  14:55:28  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  14:55:28  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  14:55:28  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  14:55:28  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  14:55:37  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  14:55:37  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  14:55:37  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  14:55:37  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:02:13  (0x770c78)MPConnection ip:192.168.9.16
+2015/12/04  15:02:13  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:02:13  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:02:13  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:02:13  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:02:13  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:02:13  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:02:13  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:02:13  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:02:13  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:02:22  (0x784ff0)MPConnection ip:192.168.9.16
+2015/12/04  15:02:22  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:02:22  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:02:22  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:02:22  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:02:22  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:02:22  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:02:22  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:02:22  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:02:22  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:02:28  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  15:02:28  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  15:02:28  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  15:02:28  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:02:55  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  15:02:55  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30001, nMsgSize:8
+2015/12/04  15:03:54  (0x7714d8)c2s original nRequest:30001, nMsgSize:64
+2015/12/04  15:03:54  (0x7714d8)c2s decoded, nSessionId:4, nRequest:30001, nMsgSize:8
+2015/12/04  15:04:19  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  15:04:19  (0x7714d8)c2s decoded, nSessionId:5, nRequest:30501, nMsgSize:64
+2015/12/04  15:04:19  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  15:04:19  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:05:31  (0x77e278)MPConnection ip:192.168.9.16
+2015/12/04  15:05:31  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:05:31  (0x77ead8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:05:31  (0x77ead8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:05:31  (0x77ead8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:05:31  (0x77ead8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:05:31  (0x77ead8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:05:31  (0x77ead8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:05:31  (0x77ead8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:05:31  (0x77ead8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:05:38  (0x77ead8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  15:05:38  (0x77ead8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  15:05:38  (0x77e278) MPConnection::handle_read failed!
+2015/12/04  15:05:38  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:08:40  (0x784ff0)MPConnection ip:192.168.9.16
+2015/12/04  15:08:40  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:08:40  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:08:40  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:08:40  (0x785850)s2c original nRequest:60005, nMsgSize:8
+2015/12/04  15:08:40  (0x785850)s2c encoded nRequest:60005, original*size:8, nMsgSize:43
+2015/12/04  15:08:44  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  15:08:44  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:19:43  (0x770c78)MPConnection ip:192.168.9.12
+2015/12/04  15:19:43  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:19:43  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:19:43  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:19:43  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:19:43  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:19:43  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:19:43  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:19:43  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:19:43  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:19:50  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  15:19:50  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  15:19:50  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  15:19:50  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:40:05  (0x784ff0)MPConnection ip:192.168.9.12
+2015/12/04  15:40:05  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:40:05  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:40:05  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:40:05  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:40:05  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:40:05  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:40:05  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:40:05  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:40:05  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:41:39  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  15:41:39  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  15:53:02  (0x770c78)MPConnection ip:192.168.9.16
+2015/12/04  15:53:02  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  15:53:02  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  15:53:02  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  15:53:02  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  15:53:02  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  15:53:02  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  15:53:02  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  15:53:02  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  15:53:02  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  15:53:06  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  15:53:06  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  15:53:06  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  15:53:06  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  16:37:03  (0x784ff0)MPConnection ip:192.168.9.16
+2015/12/04  16:37:03  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  16:37:03  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  16:37:03  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  16:37:03  (0x785850)s2c original nRequest:60005, nMsgSize:8
+2015/12/04  16:37:03  (0x785850)s2c encoded nRequest:60005, original*size:8, nMsgSize:43
+2015/12/04  16:37:04  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  16:37:04  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  16:37:04  (0x770c78)MPConnection ip:192.168.9.16
+2015/12/04  16:37:04  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  16:37:04  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  16:37:04  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  16:37:04  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  16:37:05  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  16:37:05  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  16:37:05  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  16:37:05  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  16:37:05  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  16:37:16  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  16:37:16  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  16:37:16  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  16:37:16  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  16:37:28  (0x784ff0)MPConnection ip:192.168.9.16
+2015/12/04  16:37:28  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  16:37:28  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  16:37:28  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  16:37:28  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  16:37:28  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  16:37:28  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  16:37:28  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  16:37:28  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  16:37:28  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  16:37:35  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  16:37:35  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  16:37:35  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  16:37:35  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  16:37:39  (0x770c78)MPConnection ip:192.168.9.16
+2015/12/04  16:37:39  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  16:37:39  (0x7714d8)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  16:37:39  (0x7714d8)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  16:37:39  (0x7714d8)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  16:37:39  (0x7714d8)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  16:37:39  (0x7714d8)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  16:37:39  (0x7714d8)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  16:37:39  (0x7714d8)s2c original nRequest:10, nMsgSize:44
+2015/12/04  16:37:39  (0x7714d8)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  16:37:42  (0x7714d8)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  16:37:42  (0x7714d8)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  16:37:42  (0x770c78) MPConnection::handle_read failed!
+2015/12/04  16:37:42  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。
+2015/12/04  16:45:48  (0x784ff0)MPConnection ip:192.168.9.16
+2015/12/04  16:45:48  (0x785850)c2s original nRequest:30500, nMsgSize:179
+2015/12/04  16:45:48  (0x785850)c2s decoded, nSessionId:1, nRequest:30500, nMsgSize:256
+2015/12/04  16:45:48  Connect server success! host:127.0.0.1, port:30629
+2015/12/04  16:45:48  (0x785850)s2c original nRequest:70000, nMsgSize:168
+2015/12/04  16:45:48  (0x785850)s2c encoded nRequest:70000, original*size:168, nMsgSize:113
+2015/12/04  16:45:48  (0x785850)c2s original nRequest:30520, nMsgSize:80
+2015/12/04  16:45:48  (0x785850)c2s decoded, nSessionId:2, nRequest:30520, nMsgSize:72
+2015/12/04  16:45:48  (0x785850)s2c original nRequest:10, nMsgSize:44
+2015/12/04  16:45:48  (0x785850)s2c encoded nRequest:10, original*size:44, nMsgSize:62
+2015/12/04  16:45:54  (0x785850)c2s original nRequest:30501, nMsgSize:80
+2015/12/04  16:45:54  (0x785850)c2s decoded, nSessionId:3, nRequest:30501, nMsgSize:64
+2015/12/04  16:45:54  (0x784ff0) MPConnection::handle_read failed!
+2015/12/04  16:45:54  Client Read failed! host:127.0.0.1, port:30629, error:995, msg:由于线程退出或应用程序请求，已中止 I/O 操作。

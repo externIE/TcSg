@@ -1,0 +1,447 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Game.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\icon1.ico"
+IDI_NOTHING             ICON    DISCARDABLE     "res\\common\\nothing.ico"
+IDI_PLAYER              ICON    DISCARDABLE     "res\\common\\player.ico"
+IDI_ARROW2              ICON    DISCARDABLE     "res\\Arrow2.ico"
+IDI_ARROW1              ICON    DISCARDABLE     "res\\Arrow1.ico"
+IDI_FACE                ICON    DISCARDABLE     "res\\common\\face.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_PLAYER MENU DISCARDABLE 
+BEGIN
+    POPUP "playerlist"
+    BEGIN
+        MENUITEM "hello",                       ID_PLAYER_NAME
+        MENUITEM SEPARATOR
+        MENUITEM "详细信息",                    ID_PLAYER_DETAIL
+        MENUITEM SEPARATOR
+        MENUITEM "级别",                        ID_PLAYER_LEVEL
+        MENUITEM "积分",                        ID_PLAYER_SCORE
+        MENUITEM "银子",                        ID_PLAYER_DEPOSIT
+        MENUITEM SEPARATOR
+        MENUITEM "允许看牌",                    ID_ALLOW_KANPAI
+        MENUITEM SEPARATOR
+        MENUITEM "呼叫玩家",                    ID_PLAYER_CALL
+    END
+END
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "退出(&X)",                    ID_APP_EXIT
+    END
+END
+
+IDR_SKIN MENU DISCARDABLE 
+BEGIN
+    POPUP "skin"
+    BEGIN
+        MENUITEM "更多皮肤...",                 ID_SKIN_MORE
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_TABLE DIALOG DISCARDABLE  0, 0, 274, 158
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+END
+
+IDD_COMM DIALOGEX 0, 0, 207, 45
+STYLE DS_SYSMODAL | DS_CENTER | WS_POPUP | WS_DISABLED
+EXSTYLE WS_EX_TOOLWINDOW
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    LTEXT           "",IDCOMMDLG_WAITBAR,5,32,197,9
+    LTEXT           "",IDCOMMDLG_WAITMSG,17,12,174,18
+END
+
+IDD_PLAYER DIALOG DISCARDABLE  0, 0, 187, 100
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+END
+
+IDD_GAMESET DIALOG DISCARDABLE  0, 0, 182, 115
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "设置"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "游戏设置",IDC_STATIC,7,7,171,77
+    PUSHBUTTON      "确定",IDOK,34,93,50,18,WS_GROUP
+    PUSHBUTTON      "取消",IDCANCEL,98,93,50,18
+    CONTROL         "音效",IDC_SOUNDEFFECT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,51,30,73,10
+    CONTROL         "音乐",IDC_MUSIC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    51,45,74,10
+END
+
+IDD_CHAT DIALOG DISCARDABLE  0, 0, 217, 110
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "",IDC_RICHEDIT,"RICHEDIT",ES_MULTILINE | WS_VSCROLL | 
+                    WS_TABSTOP,87,25,49,25
+END
+
+IDD_TMB DIALOG DISCARDABLE  0, 0, 179, 63
+STYLE DS_SYSMODAL | DS_MODALFRAME | DS_SETFOREGROUND | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "游戏"
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "取消",IDCANCEL,95,46,50,18
+    PUSHBUTTON      "确定",IDOK,39,46,50,18
+    ICON            "",IDTMB_PICTURE,7,8,20,20
+    RTEXT           "10",IDTMB_SECOND,150,50,17,8
+    LTEXT           "",IDTMB_CONTENT,39,11,130,31
+END
+
+IDD_ALC DIALOGEX 0, 0, 115, 41
+STYLE DS_SYSMODAL | DS_MODALFRAME | DS_SETFOREGROUND | WS_POPUP
+EXSTYLE WS_EX_TOOLWINDOW | WS_EX_CLIENTEDGE
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDALC_PORTRAIT,"Static",SS_BITMAP,2,2,15,14
+    LTEXT           "请求\r\n看牌",IDC_STATIC,4,25,16,16
+    LTEXT           "",IDALC_CONTENT,27,8,85,8
+    LTEXT           "同意",IDALC_AGREE,33,28,22,8
+    LTEXT           "拒绝",IDALC_REJECT,74,28,22,8
+END
+
+IDD_DETAIL DIALOG DISCARDABLE  0, 0, 105, 227
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "详细信息"
+FONT 9, "宋体"
+BEGIN
+    EDITTEXT        IDC_USERNAME,39,10,60,12,ES_CENTER | ES_AUTOHSCROLL | 
+                    ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_NICKNAME,39,30,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_DEPOSITLEVEL,39,42,60,12,ES_AUTOHSCROLL | 
+                    ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_DEPOSIT,39,54,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_LEVELNAME,39,66,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_SCORE,39,78,60,12,ES_AUTOHSCROLL | ES_READONLY | NOT 
+                    WS_BORDER
+    EDITTEXT        IDC_EXPERIENCE,39,90,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_BREAKOFF,39,102,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_NETSPEED,39,114,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_WIN,39,126,60,12,ES_AUTOHSCROLL | ES_READONLY | NOT 
+                    WS_BORDER
+    EDITTEXT        IDC_LOSS,39,138,60,12,ES_AUTOHSCROLL | ES_READONLY | NOT 
+                    WS_BORDER
+    EDITTEXT        IDC_STANDOFF,39,150,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_WINPERCENT,39,162,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_ISFRIEND,39,174,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    EDITTEXT        IDC_ISUNWELCOME,39,186,60,12,ES_AUTOHSCROLL | 
+                    ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_LOOKONWHO,39,198,60,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    LTEXT           "关闭",IDC_CLOSE_DETAIL,82,213,17,8
+    CONTROL         "",IDC_PORTRAIT,"Static",SS_BITMAP,5,3,15,14
+    RTEXT           "昵称",IDC_STATIC,4,30,32,8
+    RTEXT           "财富等级",IDC_STATIC,4,42,32,8
+    RTEXT           "银子",IDC_STATIC,4,54,32,8
+    RTEXT           "级别",IDC_STATIC,4,66,32,8
+    RTEXT           "积分",IDC_STATIC,4,78,32,8
+    RTEXT           "经验",IDC_STATIC,4,90,32,8
+    RTEXT           "断线率",IDC_STATIC,4,102,32,8
+    RTEXT           "网速",IDC_STATIC,4,114,32,8
+    RTEXT           "赢",IDC_STATIC,4,126,32,8
+    RTEXT           "输",IDC_STATIC,4,138,32,8
+    RTEXT           "和",IDC_STATIC,4,150,32,8
+    RTEXT           "胜率",IDC_STATIC,4,162,32,8
+    RTEXT           "我的好友",IDC_STATIC,4,174,32,8
+    RTEXT           "不受欢迎",IDC_STATIC,4,186,32,8
+    RTEXT           "正在旁观",IDC_STATIC,4,198,32,8
+    LTEXT           "刷新",IDC_REFRESH_DETAIL,51,213,17,8
+END
+
+IDD_OPERATE2 DIALOG DISCARDABLE  0, 0, 195, 60
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "",ID_SYS_RULE,24,7,30,36,BS_FLAT
+    PUSHBUTTON      "",ID_SYS_SET,64,7,30,36,BS_FLAT
+    PUSHBUTTON      "",ID_SYS_HELP,98,7,30,36,BS_FLAT
+    PUSHBUTTON      "",ID_SYS_EXIT,138,7,30,36,BS_FLAT
+END
+
+IDD_ADVERT DIALOG DISCARDABLE  0, 0, 187, 100
+STYLE WS_CHILD | WS_BORDER
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "",IDC_WWW3,18,7,31,14
+END
+
+IDD_CHAT2 DIALOG DISCARDABLE  0, 0, 5, 5
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+END
+
+IDD_RESULT DIALOGEX 0, 0, 145, 176
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION
+CAPTION "游戏结果"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    PUSHBUTTON      "确定",IDOK,50,154,50,18
+    CONTROL         "List1",IDC_PLAYER,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | WS_TABSTOP,4,80,
+                    137,69,WS_EX_STATICEDGE
+    ICON            "",IDC_PORTRAIT,6,1,20,20
+    CTEXT           "",IDC_REMARK,4,25,137,52,0,WS_EX_STATICEDGE
+    LTEXT           "",IDC_NAME,32,6,109,12,SS_CENTERIMAGE,WS_EX_STATICEDGE
+    LTEXT           "20",IDC_SECOND1,126,159,12,10
+END
+
+IDD_DLGBAR DIALOG DISCARDABLE  0, 0, 100, 0
+STYLE WS_CHILD
+FONT 10, "宋体"
+BEGIN
+    PUSHBUTTON      "IDC_TOP",IDC_TOP,0,0,6,6
+END
+
+IDD_DIALOG_IE DIALOG DISCARDABLE  0, 0, 187, 96
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 10, "System"
+BEGIN
+    LTEXT           "Static",IDC_STATIC_IE,0,0,187,96
+END
+
+IDD_GAMECHARGE DIALOG DISCARDABLE  0, 0, 187, 97
+STYLE WS_POPUP
+FONT 10, "宋体"
+BEGIN
+    PUSHBUTTON      "",IDC_BTN_CLOSECHARGE,167,7,13,12
+    PUSHBUTTON      "",IDC_BTN_QRCODE_CHARGE,21,67,50,14
+    PUSHBUTTON      "",IDC_BTN_WEB_CHARGE,102,66,50,14
+    PUSHBUTTON      "",IDC_BTN_QRCODE_CHARGE_WECHAT,64,30,50,14
+END
+
+IDD_QRCODE_CHARGE DIALOG DISCARDABLE  0, 0, 187, 96
+STYLE WS_POPUP
+FONT 10, "System"
+BEGIN
+    LTEXT           "",IDC_WWW4,70,43,31,14
+    PUSHBUTTON      "",IDC_CLOSE_QRCODECHARGE,170,0,17,12
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,2016,303
+ PRODUCTVERSION 2,0,2016,303
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "同城游\0"
+            VALUE "FileDescription", "游戏程序\0"
+            VALUE "FileVersion", "2, 0, 2016, 303\0"
+            VALUE "InternalName", "tcsg\0"
+            VALUE "LegalCopyright", "同城游 (C) 2014\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "tcsg.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Game 应用程序\0"
+            VALUE "ProductVersion", "2, 0, 2016, 303\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_TABLE, DIALOG
+    BEGIN
+        RIGHTMARGIN, 272
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_TMB, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 61
+    END
+
+    IDD_ADVERT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 93
+    END
+
+    IDD_DLGBAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "游戏"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "游戏"
+    AFX_IDS_IDLEMESSAGE     "就绪"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_EXIT             "退出应用程序"
+    IDS_DEPOSIT_NOTENOUGH   "%s的银子不够了，这一桌游戏结束。"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\Game.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

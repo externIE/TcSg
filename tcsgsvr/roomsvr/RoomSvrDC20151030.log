@@ -1,0 +1,1903 @@
+2015/10/30  14:55:47  server starting...
+2015/10/30  14:55:47  tcsvr built up!
+2015/10/30  14:55:47  tcsvr built up!
+2015/10/30  14:55:47  tcsvr built up!
+2015/10/30  14:55:47  client id=6040010!
+2015/10/30  14:55:47  host id=6040010!
+2015/10/30  14:55:47  ValidateClientEx() OK!
+2015/10/30  14:55:48  GetFilterWord() OK!
+2015/10/30  14:55:48  GetMutexHard() OK!
+2015/10/30  14:55:48  GetChatForbid() OK!
+2015/10/30  14:55:48  Server start up OK.
+2015/10/30  14:56:48  release server buffer pool done. count = 0.
+2015/10/30  14:56:48  release client buffer pool done. count = 3.
+2015/10/30  14:56:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  14:56:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  14:56:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  14:56:48  clear chat action done. count = 0.
+2015/10/30  14:56:48  clear call action done. count = 0.
+2015/10/30  14:56:48  clear tablepwd action done. count = 0.
+2015/10/30  14:56:48  clear addfriend action done. count = 0.
+2015/10/30  14:56:48  clear invite action done. count = 0.
+2015/10/30  14:57:48  release server buffer pool done. count = 0.
+2015/10/30  14:57:48  release client buffer pool done. count = 3.
+2015/10/30  14:57:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  14:57:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  14:57:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  14:57:48  clear chat action done. count = 0.
+2015/10/30  14:57:48  clear call action done. count = 0.
+2015/10/30  14:57:48  clear tablepwd action done. count = 0.
+2015/10/30  14:57:48  clear addfriend action done. count = 0.
+2015/10/30  14:57:48  clear invite action done. count = 0.
+2015/10/30  14:58:48  release server buffer pool done. count = 0.
+2015/10/30  14:58:48  release client buffer pool done. count = 3.
+2015/10/30  14:58:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  14:58:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  14:58:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  14:58:48  clear chat action done. count = 0.
+2015/10/30  14:58:48  clear call action done. count = 0.
+2015/10/30  14:58:48  clear tablepwd action done. count = 0.
+2015/10/30  14:58:48  clear addfriend action done. count = 0.
+2015/10/30  14:58:48  clear invite action done. count = 0.
+2015/10/30  14:59:48  release server buffer pool done. count = 0.
+2015/10/30  14:59:48  release client buffer pool done. count = 3.
+2015/10/30  14:59:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  14:59:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  14:59:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  14:59:48  clear chat action done. count = 0.
+2015/10/30  14:59:48  clear call action done. count = 0.
+2015/10/30  14:59:48  clear tablepwd action done. count = 0.
+2015/10/30  14:59:48  clear addfriend action done. count = 0.
+2015/10/30  14:59:48  clear invite action done. count = 0.
+2015/10/30  15:00:48  release server buffer pool done. count = 0.
+2015/10/30  15:00:48  release client buffer pool done. count = 3.
+2015/10/30  15:00:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:00:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:00:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:00:48  clear chat action done. count = 0.
+2015/10/30  15:00:48  clear call action done. count = 0.
+2015/10/30  15:00:48  clear tablepwd action done. count = 0.
+2015/10/30  15:00:48  clear addfriend action done. count = 0.
+2015/10/30  15:00:48  clear invite action done. count = 0.
+2015/10/30  15:01:48  release server buffer pool done. count = 0.
+2015/10/30  15:01:48  release client buffer pool done. count = 3.
+2015/10/30  15:01:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:01:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:01:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:01:48  clear chat action done. count = 0.
+2015/10/30  15:01:48  clear call action done. count = 0.
+2015/10/30  15:01:48  clear tablepwd action done. count = 0.
+2015/10/30  15:01:48  clear addfriend action done. count = 0.
+2015/10/30  15:01:48  clear invite action done. count = 0.
+2015/10/30  15:02:48  release server buffer pool done. count = 0.
+2015/10/30  15:02:48  release client buffer pool done. count = 3.
+2015/10/30  15:02:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:02:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:02:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:02:48  clear chat action done. count = 0.
+2015/10/30  15:02:48  clear call action done. count = 0.
+2015/10/30  15:02:48  clear tablepwd action done. count = 0.
+2015/10/30  15:02:48  clear addfriend action done. count = 0.
+2015/10/30  15:02:48  clear invite action done. count = 0.
+2015/10/30  15:03:48  release server buffer pool done. count = 0.
+2015/10/30  15:03:48  release client buffer pool done. count = 3.
+2015/10/30  15:03:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:03:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:03:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:03:48  clear chat action done. count = 0.
+2015/10/30  15:03:48  clear call action done. count = 0.
+2015/10/30  15:03:48  clear tablepwd action done. count = 0.
+2015/10/30  15:03:48  clear addfriend action done. count = 0.
+2015/10/30  15:03:48  clear invite action done. count = 0.
+2015/10/30  15:04:48  release server buffer pool done. count = 0.
+2015/10/30  15:04:48  release client buffer pool done. count = 3.
+2015/10/30  15:04:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:04:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:04:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:04:48  clear chat action done. count = 0.
+2015/10/30  15:04:48  clear call action done. count = 0.
+2015/10/30  15:04:48  clear tablepwd action done. count = 0.
+2015/10/30  15:04:48  clear addfriend action done. count = 0.
+2015/10/30  15:04:48  clear invite action done. count = 0.
+2015/10/30  15:05:48  release server buffer pool done. count = 0.
+2015/10/30  15:05:48  release client buffer pool done. count = 3.
+2015/10/30  15:05:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:05:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:05:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:05:48  clear chat action done. count = 0.
+2015/10/30  15:05:48  clear call action done. count = 0.
+2015/10/30  15:05:48  clear tablepwd action done. count = 0.
+2015/10/30  15:05:48  clear addfriend action done. count = 0.
+2015/10/30  15:05:48  clear invite action done. count = 0.
+2015/10/30  15:06:48  release server buffer pool done. count = 0.
+2015/10/30  15:06:48  release client buffer pool done. count = 3.
+2015/10/30  15:06:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:06:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:06:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:06:48  clear chat action done. count = 0.
+2015/10/30  15:06:48  clear call action done. count = 0.
+2015/10/30  15:06:48  clear tablepwd action done. count = 0.
+2015/10/30  15:06:48  clear addfriend action done. count = 0.
+2015/10/30  15:06:48  clear invite action done. count = 0.
+2015/10/30  15:07:48  release server buffer pool done. count = 0.
+2015/10/30  15:07:48  release client buffer pool done. count = 3.
+2015/10/30  15:07:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:07:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:07:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:07:48  clear chat action done. count = 0.
+2015/10/30  15:07:48  clear call action done. count = 0.
+2015/10/30  15:07:48  clear tablepwd action done. count = 0.
+2015/10/30  15:07:48  clear addfriend action done. count = 0.
+2015/10/30  15:07:48  clear invite action done. count = 0.
+2015/10/30  15:08:48  release server buffer pool done. count = 0.
+2015/10/30  15:08:48  release client buffer pool done. count = 3.
+2015/10/30  15:08:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:08:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:08:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:08:48  clear chat action done. count = 0.
+2015/10/30  15:08:48  clear call action done. count = 0.
+2015/10/30  15:08:48  clear tablepwd action done. count = 0.
+2015/10/30  15:08:48  clear addfriend action done. count = 0.
+2015/10/30  15:08:48  clear invite action done. count = 0.
+2015/10/30  15:09:48  release server buffer pool done. count = 0.
+2015/10/30  15:09:48  release client buffer pool done. count = 3.
+2015/10/30  15:09:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:09:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:09:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:09:48  clear chat action done. count = 0.
+2015/10/30  15:09:48  clear call action done. count = 0.
+2015/10/30  15:09:48  clear tablepwd action done. count = 0.
+2015/10/30  15:09:48  clear addfriend action done. count = 0.
+2015/10/30  15:09:48  clear invite action done. count = 0.
+2015/10/30  15:10:48  release server buffer pool done. count = 0.
+2015/10/30  15:10:48  release client buffer pool done. count = 3.
+2015/10/30  15:10:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:10:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:10:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:10:48  clear chat action done. count = 0.
+2015/10/30  15:10:48  clear call action done. count = 0.
+2015/10/30  15:10:48  clear tablepwd action done. count = 0.
+2015/10/30  15:10:48  clear addfriend action done. count = 0.
+2015/10/30  15:10:48  clear invite action done. count = 0.
+2015/10/30  15:11:48  release server buffer pool done. count = 0.
+2015/10/30  15:11:48  release client buffer pool done. count = 3.
+2015/10/30  15:11:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:11:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:11:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:11:48  clear chat action done. count = 0.
+2015/10/30  15:11:48  clear call action done. count = 0.
+2015/10/30  15:11:48  clear tablepwd action done. count = 0.
+2015/10/30  15:11:48  clear addfriend action done. count = 0.
+2015/10/30  15:11:48  clear invite action done. count = 0.
+2015/10/30  15:12:48  release server buffer pool done. count = 0.
+2015/10/30  15:12:48  release client buffer pool done. count = 3.
+2015/10/30  15:12:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:12:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:12:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:12:48  clear chat action done. count = 0.
+2015/10/30  15:12:48  clear call action done. count = 0.
+2015/10/30  15:12:48  clear tablepwd action done. count = 0.
+2015/10/30  15:12:48  clear addfriend action done. count = 0.
+2015/10/30  15:12:48  clear invite action done. count = 0.
+2015/10/30  15:13:48  release server buffer pool done. count = 0.
+2015/10/30  15:13:48  release client buffer pool done. count = 3.
+2015/10/30  15:13:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:13:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:13:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:13:48  clear chat action done. count = 0.
+2015/10/30  15:13:48  clear call action done. count = 0.
+2015/10/30  15:13:48  clear tablepwd action done. count = 0.
+2015/10/30  15:13:48  clear addfriend action done. count = 0.
+2015/10/30  15:13:48  clear invite action done. count = 0.
+2015/10/30  15:14:48  release server buffer pool done. count = 0.
+2015/10/30  15:14:48  release client buffer pool done. count = 3.
+2015/10/30  15:14:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:14:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:14:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:14:48  clear chat action done. count = 0.
+2015/10/30  15:14:48  clear call action done. count = 0.
+2015/10/30  15:14:48  clear tablepwd action done. count = 0.
+2015/10/30  15:14:48  clear addfriend action done. count = 0.
+2015/10/30  15:14:48  clear invite action done. count = 0.
+2015/10/30  15:15:48  release server buffer pool done. count = 0.
+2015/10/30  15:15:48  release client buffer pool done. count = 3.
+2015/10/30  15:15:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:15:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:15:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:15:48  clear chat action done. count = 0.
+2015/10/30  15:15:48  clear call action done. count = 0.
+2015/10/30  15:15:48  clear tablepwd action done. count = 0.
+2015/10/30  15:15:48  clear addfriend action done. count = 0.
+2015/10/30  15:15:48  clear invite action done. count = 0.
+2015/10/30  15:16:48  release server buffer pool done. count = 0.
+2015/10/30  15:16:48  release client buffer pool done. count = 3.
+2015/10/30  15:16:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:16:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:16:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:16:48  clear chat action done. count = 0.
+2015/10/30  15:16:48  clear call action done. count = 0.
+2015/10/30  15:16:48  clear tablepwd action done. count = 0.
+2015/10/30  15:16:48  clear addfriend action done. count = 0.
+2015/10/30  15:16:48  clear invite action done. count = 0.
+2015/10/30  15:17:48  release server buffer pool done. count = 0.
+2015/10/30  15:17:48  release client buffer pool done. count = 3.
+2015/10/30  15:17:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:17:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:17:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:17:48  clear chat action done. count = 0.
+2015/10/30  15:17:48  clear call action done. count = 0.
+2015/10/30  15:17:48  clear tablepwd action done. count = 0.
+2015/10/30  15:17:48  clear addfriend action done. count = 0.
+2015/10/30  15:17:48  clear invite action done. count = 0.
+2015/10/30  15:18:48  release server buffer pool done. count = 0.
+2015/10/30  15:18:48  release client buffer pool done. count = 3.
+2015/10/30  15:18:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:18:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:18:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:18:48  clear chat action done. count = 0.
+2015/10/30  15:18:48  clear call action done. count = 0.
+2015/10/30  15:18:48  clear tablepwd action done. count = 0.
+2015/10/30  15:18:48  clear addfriend action done. count = 0.
+2015/10/30  15:18:48  clear invite action done. count = 0.
+2015/10/30  15:19:48  release server buffer pool done. count = 0.
+2015/10/30  15:19:48  release client buffer pool done. count = 3.
+2015/10/30  15:19:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:19:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:19:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:19:48  clear chat action done. count = 0.
+2015/10/30  15:19:48  clear call action done. count = 0.
+2015/10/30  15:19:48  clear tablepwd action done. count = 0.
+2015/10/30  15:19:48  clear addfriend action done. count = 0.
+2015/10/30  15:19:48  clear invite action done. count = 0.
+2015/10/30  15:20:48  release server buffer pool done. count = 0.
+2015/10/30  15:20:48  release client buffer pool done. count = 3.
+2015/10/30  15:20:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:20:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:20:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:20:48  clear chat action done. count = 0.
+2015/10/30  15:20:48  clear call action done. count = 0.
+2015/10/30  15:20:48  clear tablepwd action done. count = 0.
+2015/10/30  15:20:48  clear addfriend action done. count = 0.
+2015/10/30  15:20:48  clear invite action done. count = 0.
+2015/10/30  15:21:48  release server buffer pool done. count = 0.
+2015/10/30  15:21:48  release client buffer pool done. count = 3.
+2015/10/30  15:21:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:21:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:21:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:21:48  clear chat action done. count = 0.
+2015/10/30  15:21:48  clear call action done. count = 0.
+2015/10/30  15:21:48  clear tablepwd action done. count = 0.
+2015/10/30  15:21:48  clear addfriend action done. count = 0.
+2015/10/30  15:21:48  clear invite action done. count = 0.
+2015/10/30  15:22:48  release server buffer pool done. count = 0.
+2015/10/30  15:22:48  release client buffer pool done. count = 3.
+2015/10/30  15:22:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:22:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:22:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:22:48  clear chat action done. count = 0.
+2015/10/30  15:22:48  clear call action done. count = 0.
+2015/10/30  15:22:48  clear tablepwd action done. count = 0.
+2015/10/30  15:22:48  clear addfriend action done. count = 0.
+2015/10/30  15:22:48  clear invite action done. count = 0.
+2015/10/30  15:23:48  release server buffer pool done. count = 0.
+2015/10/30  15:23:48  release client buffer pool done. count = 3.
+2015/10/30  15:23:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:23:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:23:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:23:48  clear chat action done. count = 0.
+2015/10/30  15:23:48  clear call action done. count = 0.
+2015/10/30  15:23:48  clear tablepwd action done. count = 0.
+2015/10/30  15:23:48  clear addfriend action done. count = 0.
+2015/10/30  15:23:48  clear invite action done. count = 0.
+2015/10/30  15:24:48  release server buffer pool done. count = 0.
+2015/10/30  15:24:48  release client buffer pool done. count = 3.
+2015/10/30  15:24:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:24:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:24:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:24:48  clear chat action done. count = 0.
+2015/10/30  15:24:48  clear call action done. count = 0.
+2015/10/30  15:24:48  clear tablepwd action done. count = 0.
+2015/10/30  15:24:48  clear addfriend action done. count = 0.
+2015/10/30  15:24:48  clear invite action done. count = 0.
+2015/10/30  15:25:48  release server buffer pool done. count = 0.
+2015/10/30  15:25:48  release client buffer pool done. count = 3.
+2015/10/30  15:25:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:25:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:25:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:25:48  clear chat action done. count = 0.
+2015/10/30  15:25:48  clear call action done. count = 0.
+2015/10/30  15:25:48  clear tablepwd action done. count = 0.
+2015/10/30  15:25:48  clear addfriend action done. count = 0.
+2015/10/30  15:25:48  clear invite action done. count = 0.
+2015/10/30  15:26:48  release server buffer pool done. count = 0.
+2015/10/30  15:26:48  release client buffer pool done. count = 3.
+2015/10/30  15:26:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:26:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:26:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:26:48  clear chat action done. count = 0.
+2015/10/30  15:26:48  clear call action done. count = 0.
+2015/10/30  15:26:48  clear tablepwd action done. count = 0.
+2015/10/30  15:26:48  clear addfriend action done. count = 0.
+2015/10/30  15:26:48  clear invite action done. count = 0.
+2015/10/30  15:27:48  release server buffer pool done. count = 0.
+2015/10/30  15:27:48  release client buffer pool done. count = 3.
+2015/10/30  15:27:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:27:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:27:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:27:48  clear chat action done. count = 0.
+2015/10/30  15:27:48  clear call action done. count = 0.
+2015/10/30  15:27:48  clear tablepwd action done. count = 0.
+2015/10/30  15:27:48  clear addfriend action done. count = 0.
+2015/10/30  15:27:48  clear invite action done. count = 0.
+2015/10/30  15:28:48  release server buffer pool done. count = 0.
+2015/10/30  15:28:48  release client buffer pool done. count = 3.
+2015/10/30  15:28:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:28:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:28:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:28:48  clear chat action done. count = 0.
+2015/10/30  15:28:48  clear call action done. count = 0.
+2015/10/30  15:28:48  clear tablepwd action done. count = 0.
+2015/10/30  15:28:48  clear addfriend action done. count = 0.
+2015/10/30  15:28:48  clear invite action done. count = 0.
+2015/10/30  15:29:48  release server buffer pool done. count = 0.
+2015/10/30  15:29:48  release client buffer pool done. count = 3.
+2015/10/30  15:29:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:29:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:29:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:29:48  clear chat action done. count = 0.
+2015/10/30  15:29:48  clear call action done. count = 0.
+2015/10/30  15:29:48  clear tablepwd action done. count = 0.
+2015/10/30  15:29:48  clear addfriend action done. count = 0.
+2015/10/30  15:29:48  clear invite action done. count = 0.
+2015/10/30  15:30:48  release server buffer pool done. count = 0.
+2015/10/30  15:30:48  release client buffer pool done. count = 3.
+2015/10/30  15:30:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:30:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:30:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:30:48  clear chat action done. count = 0.
+2015/10/30  15:30:48  clear call action done. count = 0.
+2015/10/30  15:30:48  clear tablepwd action done. count = 0.
+2015/10/30  15:30:48  clear addfriend action done. count = 0.
+2015/10/30  15:30:48  clear invite action done. count = 0.
+2015/10/30  15:31:48  release server buffer pool done. count = 0.
+2015/10/30  15:31:48  release client buffer pool done. count = 3.
+2015/10/30  15:31:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:31:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:31:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:31:48  clear chat action done. count = 0.
+2015/10/30  15:31:48  clear call action done. count = 0.
+2015/10/30  15:31:48  clear tablepwd action done. count = 0.
+2015/10/30  15:31:48  clear addfriend action done. count = 0.
+2015/10/30  15:31:48  clear invite action done. count = 0.
+2015/10/30  15:32:48  release server buffer pool done. count = 0.
+2015/10/30  15:32:48  release client buffer pool done. count = 3.
+2015/10/30  15:32:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:32:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:32:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:32:48  clear chat action done. count = 0.
+2015/10/30  15:32:48  clear call action done. count = 0.
+2015/10/30  15:32:48  clear tablepwd action done. count = 0.
+2015/10/30  15:32:48  clear addfriend action done. count = 0.
+2015/10/30  15:32:48  clear invite action done. count = 0.
+2015/10/30  15:33:48  release server buffer pool done. count = 0.
+2015/10/30  15:33:48  release client buffer pool done. count = 3.
+2015/10/30  15:33:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:33:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:33:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:33:48  clear chat action done. count = 0.
+2015/10/30  15:33:48  clear call action done. count = 0.
+2015/10/30  15:33:48  clear tablepwd action done. count = 0.
+2015/10/30  15:33:48  clear addfriend action done. count = 0.
+2015/10/30  15:33:48  clear invite action done. count = 0.
+2015/10/30  15:34:48  release server buffer pool done. count = 2.
+2015/10/30  15:34:48  release client buffer pool done. count = 3.
+2015/10/30  15:34:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:34:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:34:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:34:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:34:48  clear chat action done. count = 0.
+2015/10/30  15:34:48  clear call action done. count = 0.
+2015/10/30  15:34:48  clear tablepwd action done. count = 0.
+2015/10/30  15:34:48  clear addfriend action done. count = 0.
+2015/10/30  15:34:48  clear invite action done. count = 0.
+2015/10/30  15:35:42  收到GR_ROOMED_KICKOFF,踢出玩家Id:88482 in roomId:3313
+2015/10/30  15:35:48  release server buffer pool done. count = 3.
+2015/10/30  15:35:48  release client buffer pool done. count = 3.
+2015/10/30  15:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:35:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:35:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:35:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:35:48  clear chat action done. count = 0.
+2015/10/30  15:35:48  clear call action done. count = 0.
+2015/10/30  15:35:48  clear tablepwd action done. count = 0.
+2015/10/30  15:35:48  clear addfriend action done. count = 0.
+2015/10/30  15:35:48  clear invite action done. count = 0.
+2015/10/30  15:36:48  release server buffer pool done. count = 2.
+2015/10/30  15:36:48  release client buffer pool done. count = 3.
+2015/10/30  15:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:36:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:36:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:36:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:36:48  clear chat action done. count = 0.
+2015/10/30  15:36:48  clear call action done. count = 0.
+2015/10/30  15:36:48  clear tablepwd action done. count = 0.
+2015/10/30  15:36:48  clear addfriend action done. count = 0.
+2015/10/30  15:36:48  clear invite action done. count = 0.
+2015/10/30  15:37:48  release server buffer pool done. count = 0.
+2015/10/30  15:37:48  release client buffer pool done. count = 3.
+2015/10/30  15:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:37:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:37:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:37:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:37:48  clear chat action done. count = 0.
+2015/10/30  15:37:48  clear call action done. count = 0.
+2015/10/30  15:37:48  clear tablepwd action done. count = 0.
+2015/10/30  15:37:48  clear addfriend action done. count = 0.
+2015/10/30  15:37:48  clear invite action done. count = 0.
+2015/10/30  15:38:48  release server buffer pool done. count = 2.
+2015/10/30  15:38:48  release client buffer pool done. count = 3.
+2015/10/30  15:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:38:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:38:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:38:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:38:48  clear chat action done. count = 0.
+2015/10/30  15:38:48  clear call action done. count = 0.
+2015/10/30  15:38:48  clear tablepwd action done. count = 0.
+2015/10/30  15:38:48  clear addfriend action done. count = 0.
+2015/10/30  15:38:48  clear invite action done. count = 0.
+2015/10/30  15:39:48  release server buffer pool done. count = 3.
+2015/10/30  15:39:48  release client buffer pool done. count = 3.
+2015/10/30  15:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:39:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:39:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:39:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:39:48  clear chat action done. count = 0.
+2015/10/30  15:39:48  clear call action done. count = 0.
+2015/10/30  15:39:48  clear tablepwd action done. count = 0.
+2015/10/30  15:39:48  clear addfriend action done. count = 0.
+2015/10/30  15:39:48  clear invite action done. count = 0.
+2015/10/30  15:40:48  release server buffer pool done. count = 3.
+2015/10/30  15:40:48  release client buffer pool done. count = 3.
+2015/10/30  15:40:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:40:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:40:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:40:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:40:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:40:48  clear chat action done. count = 0.
+2015/10/30  15:40:48  clear call action done. count = 0.
+2015/10/30  15:40:48  clear tablepwd action done. count = 0.
+2015/10/30  15:40:48  clear addfriend action done. count = 0.
+2015/10/30  15:40:48  clear invite action done. count = 0.
+2015/10/30  15:41:48  release server buffer pool done. count = 0.
+2015/10/30  15:41:48  release client buffer pool done. count = 3.
+2015/10/30  15:41:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:41:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:41:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:41:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:41:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:41:48  clear chat action done. count = 0.
+2015/10/30  15:41:48  clear call action done. count = 0.
+2015/10/30  15:41:48  clear tablepwd action done. count = 0.
+2015/10/30  15:41:48  clear addfriend action done. count = 0.
+2015/10/30  15:41:48  clear invite action done. count = 0.
+2015/10/30  15:42:48  release server buffer pool done. count = 0.
+2015/10/30  15:42:48  release client buffer pool done. count = 3.
+2015/10/30  15:42:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:42:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:42:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:42:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:42:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:42:48  clear chat action done. count = 0.
+2015/10/30  15:42:48  clear call action done. count = 0.
+2015/10/30  15:42:48  clear tablepwd action done. count = 0.
+2015/10/30  15:42:48  clear addfriend action done. count = 0.
+2015/10/30  15:42:48  clear invite action done. count = 0.
+2015/10/30  15:43:48  release server buffer pool done. count = 0.
+2015/10/30  15:43:48  release client buffer pool done. count = 3.
+2015/10/30  15:43:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:43:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:43:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:43:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:43:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:43:48  clear chat action done. count = 0.
+2015/10/30  15:43:48  clear call action done. count = 0.
+2015/10/30  15:43:48  clear tablepwd action done. count = 0.
+2015/10/30  15:43:48  clear addfriend action done. count = 0.
+2015/10/30  15:43:48  clear invite action done. count = 0.
+2015/10/30  15:44:48  release server buffer pool done. count = 0.
+2015/10/30  15:44:48  release client buffer pool done. count = 3.
+2015/10/30  15:44:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:44:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:44:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:44:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:44:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:44:48  clear chat action done. count = 0.
+2015/10/30  15:44:48  clear call action done. count = 0.
+2015/10/30  15:44:48  clear tablepwd action done. count = 0.
+2015/10/30  15:44:48  clear addfriend action done. count = 0.
+2015/10/30  15:44:48  clear invite action done. count = 0.
+2015/10/30  15:45:48  release server buffer pool done. count = 0.
+2015/10/30  15:45:48  release client buffer pool done. count = 3.
+2015/10/30  15:45:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:45:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:45:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:45:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:45:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:45:48  clear chat action done. count = 0.
+2015/10/30  15:45:48  clear call action done. count = 0.
+2015/10/30  15:45:48  clear tablepwd action done. count = 0.
+2015/10/30  15:45:48  clear addfriend action done. count = 0.
+2015/10/30  15:45:48  clear invite action done. count = 0.
+2015/10/30  15:46:48  release server buffer pool done. count = 0.
+2015/10/30  15:46:48  release client buffer pool done. count = 3.
+2015/10/30  15:46:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:46:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:46:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:46:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:46:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:46:48  clear chat action done. count = 0.
+2015/10/30  15:46:48  clear call action done. count = 0.
+2015/10/30  15:46:48  clear tablepwd action done. count = 0.
+2015/10/30  15:46:48  clear addfriend action done. count = 0.
+2015/10/30  15:46:48  clear invite action done. count = 0.
+2015/10/30  15:47:48  release server buffer pool done. count = 0.
+2015/10/30  15:47:48  release client buffer pool done. count = 3.
+2015/10/30  15:47:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:47:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:47:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:47:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:47:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:47:48  clear chat action done. count = 0.
+2015/10/30  15:47:48  clear call action done. count = 0.
+2015/10/30  15:47:48  clear tablepwd action done. count = 0.
+2015/10/30  15:47:48  clear addfriend action done. count = 0.
+2015/10/30  15:47:48  clear invite action done. count = 0.
+2015/10/30  15:48:48  release server buffer pool done. count = 0.
+2015/10/30  15:48:48  release client buffer pool done. count = 3.
+2015/10/30  15:48:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:48:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:48:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:48:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:48:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:48:48  clear chat action done. count = 0.
+2015/10/30  15:48:48  clear call action done. count = 0.
+2015/10/30  15:48:48  clear tablepwd action done. count = 0.
+2015/10/30  15:48:48  clear addfriend action done. count = 0.
+2015/10/30  15:48:48  clear invite action done. count = 0.
+2015/10/30  15:49:48  release server buffer pool done. count = 0.
+2015/10/30  15:49:48  release client buffer pool done. count = 3.
+2015/10/30  15:49:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:49:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:49:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:49:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:49:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:49:48  clear chat action done. count = 0.
+2015/10/30  15:49:48  clear call action done. count = 0.
+2015/10/30  15:49:48  clear tablepwd action done. count = 0.
+2015/10/30  15:49:48  clear addfriend action done. count = 0.
+2015/10/30  15:49:48  clear invite action done. count = 0.
+2015/10/30  15:50:48  release server buffer pool done. count = 0.
+2015/10/30  15:50:48  release client buffer pool done. count = 3.
+2015/10/30  15:50:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:50:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:50:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:50:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:50:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:50:48  clear chat action done. count = 0.
+2015/10/30  15:50:48  clear call action done. count = 0.
+2015/10/30  15:50:48  clear tablepwd action done. count = 0.
+2015/10/30  15:50:48  clear addfriend action done. count = 0.
+2015/10/30  15:50:48  clear invite action done. count = 0.
+2015/10/30  15:51:48  release server buffer pool done. count = 0.
+2015/10/30  15:51:48  release client buffer pool done. count = 3.
+2015/10/30  15:51:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:51:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:51:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:51:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:51:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:51:48  clear chat action done. count = 0.
+2015/10/30  15:51:48  clear call action done. count = 0.
+2015/10/30  15:51:48  clear tablepwd action done. count = 0.
+2015/10/30  15:51:48  clear addfriend action done. count = 0.
+2015/10/30  15:51:48  clear invite action done. count = 0.
+2015/10/30  15:52:48  release server buffer pool done. count = 0.
+2015/10/30  15:52:48  release client buffer pool done. count = 3.
+2015/10/30  15:52:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:52:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:52:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:52:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:52:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:52:48  clear chat action done. count = 0.
+2015/10/30  15:52:48  clear call action done. count = 0.
+2015/10/30  15:52:48  clear tablepwd action done. count = 0.
+2015/10/30  15:52:48  clear addfriend action done. count = 0.
+2015/10/30  15:52:48  clear invite action done. count = 0.
+2015/10/30  15:53:48  release server buffer pool done. count = 0.
+2015/10/30  15:53:48  release client buffer pool done. count = 3.
+2015/10/30  15:53:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:53:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:53:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:53:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:53:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:53:48  clear chat action done. count = 0.
+2015/10/30  15:53:48  clear call action done. count = 0.
+2015/10/30  15:53:48  clear tablepwd action done. count = 0.
+2015/10/30  15:53:48  clear addfriend action done. count = 0.
+2015/10/30  15:53:48  clear invite action done. count = 0.
+2015/10/30  15:54:48  release server buffer pool done. count = 0.
+2015/10/30  15:54:48  release client buffer pool done. count = 3.
+2015/10/30  15:54:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:54:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:54:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:54:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:54:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:54:48  clear chat action done. count = 0.
+2015/10/30  15:54:48  clear call action done. count = 0.
+2015/10/30  15:54:48  clear tablepwd action done. count = 0.
+2015/10/30  15:54:48  clear addfriend action done. count = 0.
+2015/10/30  15:54:48  clear invite action done. count = 0.
+2015/10/30  15:55:48  release server buffer pool done. count = 0.
+2015/10/30  15:55:48  release client buffer pool done. count = 3.
+2015/10/30  15:55:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:55:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:55:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:55:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:55:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:55:48  clear chat action done. count = 0.
+2015/10/30  15:55:48  clear call action done. count = 0.
+2015/10/30  15:55:48  clear tablepwd action done. count = 0.
+2015/10/30  15:55:48  clear addfriend action done. count = 0.
+2015/10/30  15:55:48  clear invite action done. count = 0.
+2015/10/30  15:56:48  release server buffer pool done. count = 0.
+2015/10/30  15:56:48  release client buffer pool done. count = 3.
+2015/10/30  15:56:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:56:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:56:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:56:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:56:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:56:48  clear chat action done. count = 0.
+2015/10/30  15:56:48  clear call action done. count = 0.
+2015/10/30  15:56:48  clear tablepwd action done. count = 0.
+2015/10/30  15:56:48  clear addfriend action done. count = 0.
+2015/10/30  15:56:48  clear invite action done. count = 0.
+2015/10/30  15:57:48  release server buffer pool done. count = 0.
+2015/10/30  15:57:48  release client buffer pool done. count = 3.
+2015/10/30  15:57:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:57:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:57:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:57:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:57:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:57:48  clear chat action done. count = 0.
+2015/10/30  15:57:48  clear call action done. count = 0.
+2015/10/30  15:57:48  clear tablepwd action done. count = 0.
+2015/10/30  15:57:48  clear addfriend action done. count = 0.
+2015/10/30  15:57:48  clear invite action done. count = 0.
+2015/10/30  15:58:48  release server buffer pool done. count = 0.
+2015/10/30  15:58:48  release client buffer pool done. count = 3.
+2015/10/30  15:58:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:58:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:58:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:58:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:58:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:58:48  clear chat action done. count = 0.
+2015/10/30  15:58:48  clear call action done. count = 0.
+2015/10/30  15:58:48  clear tablepwd action done. count = 0.
+2015/10/30  15:58:48  clear addfriend action done. count = 0.
+2015/10/30  15:58:48  clear invite action done. count = 0.
+2015/10/30  15:59:48  release server buffer pool done. count = 0.
+2015/10/30  15:59:48  release client buffer pool done. count = 3.
+2015/10/30  15:59:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:59:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  15:59:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  15:59:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  15:59:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  15:59:48  clear chat action done. count = 0.
+2015/10/30  15:59:48  clear call action done. count = 0.
+2015/10/30  15:59:48  clear tablepwd action done. count = 0.
+2015/10/30  15:59:48  clear addfriend action done. count = 0.
+2015/10/30  15:59:48  clear invite action done. count = 0.
+2015/10/30  16:00:48  release server buffer pool done. count = 0.
+2015/10/30  16:00:48  release client buffer pool done. count = 3.
+2015/10/30  16:00:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:00:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:00:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:00:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:00:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:00:48  clear chat action done. count = 0.
+2015/10/30  16:00:48  clear call action done. count = 0.
+2015/10/30  16:00:48  clear tablepwd action done. count = 0.
+2015/10/30  16:00:48  clear addfriend action done. count = 0.
+2015/10/30  16:00:48  clear invite action done. count = 0.
+2015/10/30  16:01:48  release server buffer pool done. count = 0.
+2015/10/30  16:01:48  release client buffer pool done. count = 3.
+2015/10/30  16:01:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:01:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:01:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:01:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:01:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:01:48  clear chat action done. count = 0.
+2015/10/30  16:01:48  clear call action done. count = 0.
+2015/10/30  16:01:48  clear tablepwd action done. count = 0.
+2015/10/30  16:01:48  clear addfriend action done. count = 0.
+2015/10/30  16:01:48  clear invite action done. count = 0.
+2015/10/30  16:02:48  release server buffer pool done. count = 0.
+2015/10/30  16:02:48  release client buffer pool done. count = 3.
+2015/10/30  16:02:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:02:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:02:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:02:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:02:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:02:48  clear chat action done. count = 0.
+2015/10/30  16:02:48  clear call action done. count = 0.
+2015/10/30  16:02:48  clear tablepwd action done. count = 0.
+2015/10/30  16:02:48  clear addfriend action done. count = 0.
+2015/10/30  16:02:48  clear invite action done. count = 0.
+2015/10/30  16:03:48  release server buffer pool done. count = 0.
+2015/10/30  16:03:48  release client buffer pool done. count = 3.
+2015/10/30  16:03:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:03:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:03:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:03:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:03:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:03:48  clear chat action done. count = 0.
+2015/10/30  16:03:48  clear call action done. count = 0.
+2015/10/30  16:03:48  clear tablepwd action done. count = 0.
+2015/10/30  16:03:48  clear addfriend action done. count = 0.
+2015/10/30  16:03:48  clear invite action done. count = 0.
+2015/10/30  16:04:48  release server buffer pool done. count = 0.
+2015/10/30  16:04:48  release client buffer pool done. count = 3.
+2015/10/30  16:04:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:04:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:04:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:04:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:04:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:04:48  clear chat action done. count = 0.
+2015/10/30  16:04:48  clear call action done. count = 0.
+2015/10/30  16:04:48  clear tablepwd action done. count = 0.
+2015/10/30  16:04:48  clear addfriend action done. count = 0.
+2015/10/30  16:04:48  clear invite action done. count = 0.
+2015/10/30  16:05:48  release server buffer pool done. count = 0.
+2015/10/30  16:05:48  release client buffer pool done. count = 3.
+2015/10/30  16:05:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:05:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:05:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:05:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:05:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:05:48  clear chat action done. count = 0.
+2015/10/30  16:05:48  clear call action done. count = 0.
+2015/10/30  16:05:48  clear tablepwd action done. count = 0.
+2015/10/30  16:05:48  clear addfriend action done. count = 0.
+2015/10/30  16:05:48  clear invite action done. count = 0.
+2015/10/30  16:06:48  release server buffer pool done. count = 0.
+2015/10/30  16:06:48  release client buffer pool done. count = 3.
+2015/10/30  16:06:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:06:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:06:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:06:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:06:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:06:48  clear chat action done. count = 0.
+2015/10/30  16:06:48  clear call action done. count = 0.
+2015/10/30  16:06:48  clear tablepwd action done. count = 0.
+2015/10/30  16:06:48  clear addfriend action done. count = 0.
+2015/10/30  16:06:48  clear invite action done. count = 0.
+2015/10/30  16:07:48  release server buffer pool done. count = 0.
+2015/10/30  16:07:48  release client buffer pool done. count = 3.
+2015/10/30  16:07:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:07:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:07:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:07:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:07:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:07:48  clear chat action done. count = 0.
+2015/10/30  16:07:48  clear call action done. count = 0.
+2015/10/30  16:07:48  clear tablepwd action done. count = 0.
+2015/10/30  16:07:48  clear addfriend action done. count = 0.
+2015/10/30  16:07:48  clear invite action done. count = 0.
+2015/10/30  16:08:48  release server buffer pool done. count = 0.
+2015/10/30  16:08:48  release client buffer pool done. count = 3.
+2015/10/30  16:08:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:08:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:08:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:08:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:08:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:08:48  clear chat action done. count = 0.
+2015/10/30  16:08:48  clear call action done. count = 0.
+2015/10/30  16:08:48  clear tablepwd action done. count = 0.
+2015/10/30  16:08:48  clear addfriend action done. count = 0.
+2015/10/30  16:08:48  clear invite action done. count = 0.
+2015/10/30  16:09:48  release server buffer pool done. count = 0.
+2015/10/30  16:09:48  release client buffer pool done. count = 3.
+2015/10/30  16:09:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:09:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:09:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:09:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:09:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:09:48  clear chat action done. count = 0.
+2015/10/30  16:09:48  clear call action done. count = 0.
+2015/10/30  16:09:48  clear tablepwd action done. count = 0.
+2015/10/30  16:09:48  clear addfriend action done. count = 0.
+2015/10/30  16:09:48  clear invite action done. count = 0.
+2015/10/30  16:10:48  release server buffer pool done. count = 0.
+2015/10/30  16:10:48  release client buffer pool done. count = 3.
+2015/10/30  16:10:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:10:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:10:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:10:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:10:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:10:48  clear chat action done. count = 0.
+2015/10/30  16:10:48  clear call action done. count = 0.
+2015/10/30  16:10:48  clear tablepwd action done. count = 0.
+2015/10/30  16:10:48  clear addfriend action done. count = 0.
+2015/10/30  16:10:48  clear invite action done. count = 0.
+2015/10/30  16:11:48  release server buffer pool done. count = 0.
+2015/10/30  16:11:48  release client buffer pool done. count = 3.
+2015/10/30  16:11:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:11:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:11:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:11:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:11:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:11:48  clear chat action done. count = 0.
+2015/10/30  16:11:48  clear call action done. count = 0.
+2015/10/30  16:11:48  clear tablepwd action done. count = 0.
+2015/10/30  16:11:48  clear addfriend action done. count = 0.
+2015/10/30  16:11:48  clear invite action done. count = 0.
+2015/10/30  16:12:48  release server buffer pool done. count = 0.
+2015/10/30  16:12:48  release client buffer pool done. count = 3.
+2015/10/30  16:12:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:12:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:12:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:12:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:12:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:12:48  clear chat action done. count = 0.
+2015/10/30  16:12:48  clear call action done. count = 0.
+2015/10/30  16:12:48  clear tablepwd action done. count = 0.
+2015/10/30  16:12:48  clear addfriend action done. count = 0.
+2015/10/30  16:12:48  clear invite action done. count = 0.
+2015/10/30  16:13:48  release server buffer pool done. count = 0.
+2015/10/30  16:13:48  release client buffer pool done. count = 3.
+2015/10/30  16:13:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:13:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:13:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:13:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:13:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:13:48  clear chat action done. count = 0.
+2015/10/30  16:13:48  clear call action done. count = 0.
+2015/10/30  16:13:48  clear tablepwd action done. count = 0.
+2015/10/30  16:13:48  clear addfriend action done. count = 0.
+2015/10/30  16:13:48  clear invite action done. count = 0.
+2015/10/30  16:14:48  release server buffer pool done. count = 0.
+2015/10/30  16:14:48  release client buffer pool done. count = 3.
+2015/10/30  16:14:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:14:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:14:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:14:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:14:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:14:48  clear chat action done. count = 0.
+2015/10/30  16:14:48  clear call action done. count = 0.
+2015/10/30  16:14:48  clear tablepwd action done. count = 0.
+2015/10/30  16:14:48  clear addfriend action done. count = 0.
+2015/10/30  16:14:48  clear invite action done. count = 0.
+2015/10/30  16:15:48  release server buffer pool done. count = 0.
+2015/10/30  16:15:48  release client buffer pool done. count = 3.
+2015/10/30  16:15:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:15:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:15:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:15:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:15:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:15:48  clear chat action done. count = 0.
+2015/10/30  16:15:48  clear call action done. count = 0.
+2015/10/30  16:15:48  clear tablepwd action done. count = 0.
+2015/10/30  16:15:48  clear addfriend action done. count = 0.
+2015/10/30  16:15:48  clear invite action done. count = 0.
+2015/10/30  16:16:48  release server buffer pool done. count = 0.
+2015/10/30  16:16:48  release client buffer pool done. count = 3.
+2015/10/30  16:16:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:16:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:16:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:16:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:16:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:16:48  clear chat action done. count = 0.
+2015/10/30  16:16:48  clear call action done. count = 0.
+2015/10/30  16:16:48  clear tablepwd action done. count = 0.
+2015/10/30  16:16:48  clear addfriend action done. count = 0.
+2015/10/30  16:16:48  clear invite action done. count = 0.
+2015/10/30  16:17:48  release server buffer pool done. count = 0.
+2015/10/30  16:17:48  release client buffer pool done. count = 3.
+2015/10/30  16:17:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:17:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:17:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:17:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:17:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:17:48  clear chat action done. count = 0.
+2015/10/30  16:17:48  clear call action done. count = 0.
+2015/10/30  16:17:48  clear tablepwd action done. count = 0.
+2015/10/30  16:17:48  clear addfriend action done. count = 0.
+2015/10/30  16:17:48  clear invite action done. count = 0.
+2015/10/30  16:18:48  release server buffer pool done. count = 0.
+2015/10/30  16:18:48  release client buffer pool done. count = 3.
+2015/10/30  16:18:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:18:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:18:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:18:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:18:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:18:48  clear chat action done. count = 0.
+2015/10/30  16:18:48  clear call action done. count = 0.
+2015/10/30  16:18:48  clear tablepwd action done. count = 0.
+2015/10/30  16:18:48  clear addfriend action done. count = 0.
+2015/10/30  16:18:48  clear invite action done. count = 0.
+2015/10/30  16:19:48  release server buffer pool done. count = 0.
+2015/10/30  16:19:48  release client buffer pool done. count = 3.
+2015/10/30  16:19:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:19:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:19:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:19:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:19:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:19:48  clear chat action done. count = 0.
+2015/10/30  16:19:48  clear call action done. count = 0.
+2015/10/30  16:19:48  clear tablepwd action done. count = 0.
+2015/10/30  16:19:48  clear addfriend action done. count = 0.
+2015/10/30  16:19:48  clear invite action done. count = 0.
+2015/10/30  16:20:48  release server buffer pool done. count = 0.
+2015/10/30  16:20:48  release client buffer pool done. count = 3.
+2015/10/30  16:20:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:20:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:20:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:20:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:20:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:20:48  clear chat action done. count = 0.
+2015/10/30  16:20:48  clear call action done. count = 0.
+2015/10/30  16:20:48  clear tablepwd action done. count = 0.
+2015/10/30  16:20:48  clear addfriend action done. count = 0.
+2015/10/30  16:20:48  clear invite action done. count = 0.
+2015/10/30  16:21:48  release server buffer pool done. count = 0.
+2015/10/30  16:21:48  release client buffer pool done. count = 3.
+2015/10/30  16:21:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:21:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:21:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:21:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:21:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:21:48  clear chat action done. count = 0.
+2015/10/30  16:21:48  clear call action done. count = 0.
+2015/10/30  16:21:48  clear tablepwd action done. count = 0.
+2015/10/30  16:21:48  clear addfriend action done. count = 0.
+2015/10/30  16:21:48  clear invite action done. count = 0.
+2015/10/30  16:22:48  release server buffer pool done. count = 0.
+2015/10/30  16:22:48  release client buffer pool done. count = 3.
+2015/10/30  16:22:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:22:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:22:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:22:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:22:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:22:48  clear chat action done. count = 0.
+2015/10/30  16:22:48  clear call action done. count = 0.
+2015/10/30  16:22:48  clear tablepwd action done. count = 0.
+2015/10/30  16:22:48  clear addfriend action done. count = 0.
+2015/10/30  16:22:48  clear invite action done. count = 0.
+2015/10/30  16:23:48  release server buffer pool done. count = 0.
+2015/10/30  16:23:48  release client buffer pool done. count = 3.
+2015/10/30  16:23:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:23:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:23:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:23:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:23:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:23:48  clear chat action done. count = 0.
+2015/10/30  16:23:48  clear call action done. count = 0.
+2015/10/30  16:23:48  clear tablepwd action done. count = 0.
+2015/10/30  16:23:48  clear addfriend action done. count = 0.
+2015/10/30  16:23:48  clear invite action done. count = 0.
+2015/10/30  16:24:48  release server buffer pool done. count = 0.
+2015/10/30  16:24:48  release client buffer pool done. count = 3.
+2015/10/30  16:24:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:24:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:24:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:24:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:24:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:24:48  clear chat action done. count = 0.
+2015/10/30  16:24:48  clear call action done. count = 0.
+2015/10/30  16:24:48  clear tablepwd action done. count = 0.
+2015/10/30  16:24:48  clear addfriend action done. count = 0.
+2015/10/30  16:24:48  clear invite action done. count = 0.
+2015/10/30  16:25:48  release server buffer pool done. count = 0.
+2015/10/30  16:25:48  release client buffer pool done. count = 3.
+2015/10/30  16:25:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:25:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:25:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:25:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:25:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:25:48  clear chat action done. count = 0.
+2015/10/30  16:25:48  clear call action done. count = 0.
+2015/10/30  16:25:48  clear tablepwd action done. count = 0.
+2015/10/30  16:25:48  clear addfriend action done. count = 0.
+2015/10/30  16:25:48  clear invite action done. count = 0.
+2015/10/30  16:26:48  release server buffer pool done. count = 0.
+2015/10/30  16:26:48  release client buffer pool done. count = 3.
+2015/10/30  16:26:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:26:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:26:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:26:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:26:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:26:48  clear chat action done. count = 0.
+2015/10/30  16:26:48  clear call action done. count = 0.
+2015/10/30  16:26:48  clear tablepwd action done. count = 0.
+2015/10/30  16:26:48  clear addfriend action done. count = 0.
+2015/10/30  16:26:48  clear invite action done. count = 0.
+2015/10/30  16:27:48  release server buffer pool done. count = 0.
+2015/10/30  16:27:48  release client buffer pool done. count = 3.
+2015/10/30  16:27:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:27:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:27:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:27:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:27:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:27:48  clear chat action done. count = 0.
+2015/10/30  16:27:48  clear call action done. count = 0.
+2015/10/30  16:27:48  clear tablepwd action done. count = 0.
+2015/10/30  16:27:48  clear addfriend action done. count = 0.
+2015/10/30  16:27:48  clear invite action done. count = 0.
+2015/10/30  16:28:48  release server buffer pool done. count = 0.
+2015/10/30  16:28:48  release client buffer pool done. count = 3.
+2015/10/30  16:28:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:28:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:28:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:28:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:28:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:28:48  clear chat action done. count = 0.
+2015/10/30  16:28:48  clear call action done. count = 0.
+2015/10/30  16:28:48  clear tablepwd action done. count = 0.
+2015/10/30  16:28:48  clear addfriend action done. count = 0.
+2015/10/30  16:28:48  clear invite action done. count = 0.
+2015/10/30  16:29:48  release server buffer pool done. count = 0.
+2015/10/30  16:29:48  release client buffer pool done. count = 3.
+2015/10/30  16:29:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:29:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:29:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:29:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:29:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:29:48  clear chat action done. count = 0.
+2015/10/30  16:29:48  clear call action done. count = 0.
+2015/10/30  16:29:48  clear tablepwd action done. count = 0.
+2015/10/30  16:29:48  clear addfriend action done. count = 0.
+2015/10/30  16:29:48  clear invite action done. count = 0.
+2015/10/30  16:30:48  release server buffer pool done. count = 0.
+2015/10/30  16:30:48  release client buffer pool done. count = 3.
+2015/10/30  16:30:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:30:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:30:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:30:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:30:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:30:48  clear chat action done. count = 0.
+2015/10/30  16:30:48  clear call action done. count = 0.
+2015/10/30  16:30:48  clear tablepwd action done. count = 0.
+2015/10/30  16:30:48  clear addfriend action done. count = 0.
+2015/10/30  16:30:48  clear invite action done. count = 0.
+2015/10/30  16:31:48  release server buffer pool done. count = 0.
+2015/10/30  16:31:48  release client buffer pool done. count = 3.
+2015/10/30  16:31:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:31:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:31:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:31:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:31:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:31:48  clear chat action done. count = 0.
+2015/10/30  16:31:48  clear call action done. count = 0.
+2015/10/30  16:31:48  clear tablepwd action done. count = 0.
+2015/10/30  16:31:48  clear addfriend action done. count = 0.
+2015/10/30  16:31:48  clear invite action done. count = 0.
+2015/10/30  16:32:48  release server buffer pool done. count = 0.
+2015/10/30  16:32:48  release client buffer pool done. count = 3.
+2015/10/30  16:32:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:32:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:32:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:32:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:32:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:32:48  clear chat action done. count = 0.
+2015/10/30  16:32:48  clear call action done. count = 0.
+2015/10/30  16:32:48  clear tablepwd action done. count = 0.
+2015/10/30  16:32:48  clear addfriend action done. count = 0.
+2015/10/30  16:32:48  clear invite action done. count = 0.
+2015/10/30  16:33:48  release server buffer pool done. count = 0.
+2015/10/30  16:33:48  release client buffer pool done. count = 3.
+2015/10/30  16:33:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:33:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:33:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:33:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:33:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:33:48  clear chat action done. count = 0.
+2015/10/30  16:33:48  clear call action done. count = 0.
+2015/10/30  16:33:48  clear tablepwd action done. count = 0.
+2015/10/30  16:33:48  clear addfriend action done. count = 0.
+2015/10/30  16:33:48  clear invite action done. count = 0.
+2015/10/30  16:34:48  release server buffer pool done. count = 0.
+2015/10/30  16:34:48  release client buffer pool done. count = 3.
+2015/10/30  16:34:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:34:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:34:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:34:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:34:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:34:48  clear chat action done. count = 0.
+2015/10/30  16:34:48  clear call action done. count = 0.
+2015/10/30  16:34:48  clear tablepwd action done. count = 0.
+2015/10/30  16:34:48  clear addfriend action done. count = 0.
+2015/10/30  16:34:48  clear invite action done. count = 0.
+2015/10/30  16:35:48  release server buffer pool done. count = 0.
+2015/10/30  16:35:48  release client buffer pool done. count = 3.
+2015/10/30  16:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:35:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:35:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:35:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:35:48  clear chat action done. count = 0.
+2015/10/30  16:35:48  clear call action done. count = 0.
+2015/10/30  16:35:48  clear tablepwd action done. count = 0.
+2015/10/30  16:35:48  clear addfriend action done. count = 0.
+2015/10/30  16:35:48  clear invite action done. count = 0.
+2015/10/30  16:36:48  release server buffer pool done. count = 0.
+2015/10/30  16:36:48  release client buffer pool done. count = 3.
+2015/10/30  16:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:36:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:36:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:36:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:36:48  clear chat action done. count = 0.
+2015/10/30  16:36:48  clear call action done. count = 0.
+2015/10/30  16:36:48  clear tablepwd action done. count = 0.
+2015/10/30  16:36:48  clear addfriend action done. count = 0.
+2015/10/30  16:36:48  clear invite action done. count = 0.
+2015/10/30  16:37:48  release server buffer pool done. count = 0.
+2015/10/30  16:37:48  release client buffer pool done. count = 3.
+2015/10/30  16:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:37:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:37:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:37:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:37:48  clear chat action done. count = 0.
+2015/10/30  16:37:48  clear call action done. count = 0.
+2015/10/30  16:37:48  clear tablepwd action done. count = 0.
+2015/10/30  16:37:48  clear addfriend action done. count = 0.
+2015/10/30  16:37:48  clear invite action done. count = 0.
+2015/10/30  16:38:48  release server buffer pool done. count = 0.
+2015/10/30  16:38:48  release client buffer pool done. count = 3.
+2015/10/30  16:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:38:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:38:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:38:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:38:48  clear chat action done. count = 0.
+2015/10/30  16:38:48  clear call action done. count = 0.
+2015/10/30  16:38:48  clear tablepwd action done. count = 0.
+2015/10/30  16:38:48  clear addfriend action done. count = 0.
+2015/10/30  16:38:48  clear invite action done. count = 0.
+2015/10/30  16:39:48  release server buffer pool done. count = 0.
+2015/10/30  16:39:48  release client buffer pool done. count = 3.
+2015/10/30  16:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:39:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:39:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:39:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:39:48  clear chat action done. count = 0.
+2015/10/30  16:39:48  clear call action done. count = 0.
+2015/10/30  16:39:48  clear tablepwd action done. count = 0.
+2015/10/30  16:39:48  clear addfriend action done. count = 0.
+2015/10/30  16:39:48  clear invite action done. count = 0.
+2015/10/30  16:40:48  release server buffer pool done. count = 0.
+2015/10/30  16:40:48  release client buffer pool done. count = 3.
+2015/10/30  16:40:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:40:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:40:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:40:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:40:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:40:48  clear chat action done. count = 0.
+2015/10/30  16:40:48  clear call action done. count = 0.
+2015/10/30  16:40:48  clear tablepwd action done. count = 0.
+2015/10/30  16:40:48  clear addfriend action done. count = 0.
+2015/10/30  16:40:48  clear invite action done. count = 0.
+2015/10/30  16:41:48  release server buffer pool done. count = 0.
+2015/10/30  16:41:48  release client buffer pool done. count = 3.
+2015/10/30  16:41:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:41:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:41:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:41:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:41:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:41:48  clear chat action done. count = 0.
+2015/10/30  16:41:48  clear call action done. count = 0.
+2015/10/30  16:41:48  clear tablepwd action done. count = 0.
+2015/10/30  16:41:48  clear addfriend action done. count = 0.
+2015/10/30  16:41:48  clear invite action done. count = 0.
+2015/10/30  16:42:48  release server buffer pool done. count = 0.
+2015/10/30  16:42:48  release client buffer pool done. count = 3.
+2015/10/30  16:42:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:42:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:42:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:42:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:42:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:42:48  clear chat action done. count = 0.
+2015/10/30  16:42:48  clear call action done. count = 0.
+2015/10/30  16:42:48  clear tablepwd action done. count = 0.
+2015/10/30  16:42:48  clear addfriend action done. count = 0.
+2015/10/30  16:42:48  clear invite action done. count = 0.
+2015/10/30  16:43:48  release server buffer pool done. count = 0.
+2015/10/30  16:43:48  release client buffer pool done. count = 3.
+2015/10/30  16:43:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:43:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:43:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:43:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:43:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:43:48  clear chat action done. count = 0.
+2015/10/30  16:43:48  clear call action done. count = 0.
+2015/10/30  16:43:48  clear tablepwd action done. count = 0.
+2015/10/30  16:43:48  clear addfriend action done. count = 0.
+2015/10/30  16:43:48  clear invite action done. count = 0.
+2015/10/30  16:44:48  release server buffer pool done. count = 0.
+2015/10/30  16:44:48  release client buffer pool done. count = 3.
+2015/10/30  16:44:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:44:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:44:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:44:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:44:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:44:48  clear chat action done. count = 0.
+2015/10/30  16:44:48  clear call action done. count = 0.
+2015/10/30  16:44:48  clear tablepwd action done. count = 0.
+2015/10/30  16:44:48  clear addfriend action done. count = 0.
+2015/10/30  16:44:48  clear invite action done. count = 0.
+2015/10/30  16:45:48  release server buffer pool done. count = 0.
+2015/10/30  16:45:48  release client buffer pool done. count = 3.
+2015/10/30  16:45:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:45:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:45:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:45:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:45:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:45:48  clear chat action done. count = 0.
+2015/10/30  16:45:48  clear call action done. count = 0.
+2015/10/30  16:45:48  clear tablepwd action done. count = 0.
+2015/10/30  16:45:48  clear addfriend action done. count = 0.
+2015/10/30  16:45:48  clear invite action done. count = 0.
+2015/10/30  16:46:48  release server buffer pool done. count = 0.
+2015/10/30  16:46:48  release client buffer pool done. count = 3.
+2015/10/30  16:46:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:46:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:46:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:46:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:46:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:46:48  clear chat action done. count = 0.
+2015/10/30  16:46:48  clear call action done. count = 0.
+2015/10/30  16:46:48  clear tablepwd action done. count = 0.
+2015/10/30  16:46:48  clear addfriend action done. count = 0.
+2015/10/30  16:46:48  clear invite action done. count = 0.
+2015/10/30  16:47:48  release server buffer pool done. count = 0.
+2015/10/30  16:47:48  release client buffer pool done. count = 3.
+2015/10/30  16:47:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:47:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:47:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:47:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:47:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:47:48  clear chat action done. count = 0.
+2015/10/30  16:47:48  clear call action done. count = 0.
+2015/10/30  16:47:48  clear tablepwd action done. count = 0.
+2015/10/30  16:47:48  clear addfriend action done. count = 0.
+2015/10/30  16:47:48  clear invite action done. count = 0.
+2015/10/30  16:48:48  release server buffer pool done. count = 0.
+2015/10/30  16:48:48  release client buffer pool done. count = 3.
+2015/10/30  16:48:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:48:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:48:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:48:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:48:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:48:48  clear chat action done. count = 0.
+2015/10/30  16:48:48  clear call action done. count = 0.
+2015/10/30  16:48:48  clear tablepwd action done. count = 0.
+2015/10/30  16:48:48  clear addfriend action done. count = 0.
+2015/10/30  16:48:48  clear invite action done. count = 0.
+2015/10/30  16:49:48  release server buffer pool done. count = 0.
+2015/10/30  16:49:48  release client buffer pool done. count = 3.
+2015/10/30  16:49:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:49:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:49:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:49:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:49:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:49:48  clear chat action done. count = 0.
+2015/10/30  16:49:48  clear call action done. count = 0.
+2015/10/30  16:49:48  clear tablepwd action done. count = 0.
+2015/10/30  16:49:48  clear addfriend action done. count = 0.
+2015/10/30  16:49:48  clear invite action done. count = 0.
+2015/10/30  16:50:48  release server buffer pool done. count = 0.
+2015/10/30  16:50:48  release client buffer pool done. count = 3.
+2015/10/30  16:50:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:50:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:50:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:50:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:50:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:50:48  clear chat action done. count = 0.
+2015/10/30  16:50:48  clear call action done. count = 0.
+2015/10/30  16:50:48  clear tablepwd action done. count = 0.
+2015/10/30  16:50:48  clear addfriend action done. count = 0.
+2015/10/30  16:50:48  clear invite action done. count = 0.
+2015/10/30  16:51:48  release server buffer pool done. count = 0.
+2015/10/30  16:51:48  release client buffer pool done. count = 3.
+2015/10/30  16:51:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:51:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:51:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:51:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:51:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:51:48  clear chat action done. count = 0.
+2015/10/30  16:51:48  clear call action done. count = 0.
+2015/10/30  16:51:48  clear tablepwd action done. count = 0.
+2015/10/30  16:51:48  clear addfriend action done. count = 0.
+2015/10/30  16:51:48  clear invite action done. count = 0.
+2015/10/30  16:52:48  release server buffer pool done. count = 0.
+2015/10/30  16:52:48  release client buffer pool done. count = 3.
+2015/10/30  16:52:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:52:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:52:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:52:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:52:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:52:48  clear chat action done. count = 0.
+2015/10/30  16:52:48  clear call action done. count = 0.
+2015/10/30  16:52:48  clear tablepwd action done. count = 0.
+2015/10/30  16:52:48  clear addfriend action done. count = 0.
+2015/10/30  16:52:48  clear invite action done. count = 0.
+2015/10/30  16:53:48  release server buffer pool done. count = 0.
+2015/10/30  16:53:48  release client buffer pool done. count = 3.
+2015/10/30  16:53:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:53:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:53:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:53:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:53:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:53:48  clear chat action done. count = 0.
+2015/10/30  16:53:48  clear call action done. count = 0.
+2015/10/30  16:53:48  clear tablepwd action done. count = 0.
+2015/10/30  16:53:48  clear addfriend action done. count = 0.
+2015/10/30  16:53:48  clear invite action done. count = 0.
+2015/10/30  16:54:48  release server buffer pool done. count = 0.
+2015/10/30  16:54:48  release client buffer pool done. count = 3.
+2015/10/30  16:54:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:54:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:54:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:54:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:54:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:54:48  clear chat action done. count = 0.
+2015/10/30  16:54:48  clear call action done. count = 0.
+2015/10/30  16:54:48  clear tablepwd action done. count = 0.
+2015/10/30  16:54:48  clear addfriend action done. count = 0.
+2015/10/30  16:54:48  clear invite action done. count = 0.
+2015/10/30  16:55:48  release server buffer pool done. count = 0.
+2015/10/30  16:55:48  release client buffer pool done. count = 3.
+2015/10/30  16:55:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:55:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:55:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:55:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:55:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:55:48  clear chat action done. count = 0.
+2015/10/30  16:55:48  clear call action done. count = 0.
+2015/10/30  16:55:48  clear tablepwd action done. count = 0.
+2015/10/30  16:55:48  clear addfriend action done. count = 0.
+2015/10/30  16:55:48  clear invite action done. count = 0.
+2015/10/30  16:56:48  release server buffer pool done. count = 0.
+2015/10/30  16:56:48  release client buffer pool done. count = 3.
+2015/10/30  16:56:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:56:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:56:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:56:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:56:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:56:48  clear chat action done. count = 0.
+2015/10/30  16:56:48  clear call action done. count = 0.
+2015/10/30  16:56:48  clear tablepwd action done. count = 0.
+2015/10/30  16:56:48  clear addfriend action done. count = 0.
+2015/10/30  16:56:48  clear invite action done. count = 0.
+2015/10/30  16:57:48  release server buffer pool done. count = 0.
+2015/10/30  16:57:48  release client buffer pool done. count = 3.
+2015/10/30  16:57:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:57:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:57:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:57:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:57:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:57:48  clear chat action done. count = 0.
+2015/10/30  16:57:48  clear call action done. count = 0.
+2015/10/30  16:57:48  clear tablepwd action done. count = 0.
+2015/10/30  16:57:48  clear addfriend action done. count = 0.
+2015/10/30  16:57:48  clear invite action done. count = 0.
+2015/10/30  16:58:48  release server buffer pool done. count = 0.
+2015/10/30  16:58:48  release client buffer pool done. count = 3.
+2015/10/30  16:58:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:58:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:58:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:58:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:58:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:58:48  clear chat action done. count = 0.
+2015/10/30  16:58:48  clear call action done. count = 0.
+2015/10/30  16:58:48  clear tablepwd action done. count = 0.
+2015/10/30  16:58:48  clear addfriend action done. count = 0.
+2015/10/30  16:58:48  clear invite action done. count = 0.
+2015/10/30  16:59:48  release server buffer pool done. count = 0.
+2015/10/30  16:59:48  release client buffer pool done. count = 3.
+2015/10/30  16:59:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:59:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  16:59:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  16:59:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  16:59:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  16:59:48  clear chat action done. count = 0.
+2015/10/30  16:59:48  clear call action done. count = 0.
+2015/10/30  16:59:48  clear tablepwd action done. count = 0.
+2015/10/30  16:59:48  clear addfriend action done. count = 0.
+2015/10/30  16:59:48  clear invite action done. count = 0.
+2015/10/30  17:00:48  release server buffer pool done. count = 0.
+2015/10/30  17:00:48  release client buffer pool done. count = 3.
+2015/10/30  17:00:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:00:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:00:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:00:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:00:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:00:48  clear chat action done. count = 0.
+2015/10/30  17:00:48  clear call action done. count = 0.
+2015/10/30  17:00:48  clear tablepwd action done. count = 0.
+2015/10/30  17:00:48  clear addfriend action done. count = 0.
+2015/10/30  17:00:48  clear invite action done. count = 0.
+2015/10/30  17:01:48  release server buffer pool done. count = 0.
+2015/10/30  17:01:48  release client buffer pool done. count = 3.
+2015/10/30  17:01:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:01:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:01:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:01:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:01:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:01:48  clear chat action done. count = 0.
+2015/10/30  17:01:48  clear call action done. count = 0.
+2015/10/30  17:01:48  clear tablepwd action done. count = 0.
+2015/10/30  17:01:48  clear addfriend action done. count = 0.
+2015/10/30  17:01:48  clear invite action done. count = 0.
+2015/10/30  17:02:48  release server buffer pool done. count = 0.
+2015/10/30  17:02:48  release client buffer pool done. count = 3.
+2015/10/30  17:02:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:02:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:02:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:02:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:02:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:02:48  clear chat action done. count = 0.
+2015/10/30  17:02:48  clear call action done. count = 0.
+2015/10/30  17:02:48  clear tablepwd action done. count = 0.
+2015/10/30  17:02:48  clear addfriend action done. count = 0.
+2015/10/30  17:02:48  clear invite action done. count = 0.
+2015/10/30  17:03:48  release server buffer pool done. count = 0.
+2015/10/30  17:03:48  release client buffer pool done. count = 3.
+2015/10/30  17:03:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:03:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:03:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:03:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:03:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:03:48  clear chat action done. count = 0.
+2015/10/30  17:03:48  clear call action done. count = 0.
+2015/10/30  17:03:48  clear tablepwd action done. count = 0.
+2015/10/30  17:03:48  clear addfriend action done. count = 0.
+2015/10/30  17:03:48  clear invite action done. count = 0.
+2015/10/30  17:04:48  release server buffer pool done. count = 0.
+2015/10/30  17:04:48  release client buffer pool done. count = 3.
+2015/10/30  17:04:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:04:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:04:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:04:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:04:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:04:48  clear chat action done. count = 0.
+2015/10/30  17:04:48  clear call action done. count = 0.
+2015/10/30  17:04:48  clear tablepwd action done. count = 0.
+2015/10/30  17:04:48  clear addfriend action done. count = 0.
+2015/10/30  17:04:48  clear invite action done. count = 0.
+2015/10/30  17:05:48  release server buffer pool done. count = 0.
+2015/10/30  17:05:48  release client buffer pool done. count = 3.
+2015/10/30  17:05:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:05:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:05:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:05:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:05:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:05:48  clear chat action done. count = 0.
+2015/10/30  17:05:48  clear call action done. count = 0.
+2015/10/30  17:05:48  clear tablepwd action done. count = 0.
+2015/10/30  17:05:48  clear addfriend action done. count = 0.
+2015/10/30  17:05:48  clear invite action done. count = 0.
+2015/10/30  17:06:48  release server buffer pool done. count = 0.
+2015/10/30  17:06:48  release client buffer pool done. count = 3.
+2015/10/30  17:06:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:06:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:06:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:06:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:06:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:06:48  clear chat action done. count = 0.
+2015/10/30  17:06:48  clear call action done. count = 0.
+2015/10/30  17:06:48  clear tablepwd action done. count = 0.
+2015/10/30  17:06:48  clear addfriend action done. count = 0.
+2015/10/30  17:06:48  clear invite action done. count = 0.
+2015/10/30  17:07:48  release server buffer pool done. count = 0.
+2015/10/30  17:07:48  release client buffer pool done. count = 3.
+2015/10/30  17:07:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:07:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:07:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:07:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:07:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:07:48  clear chat action done. count = 0.
+2015/10/30  17:07:48  clear call action done. count = 0.
+2015/10/30  17:07:48  clear tablepwd action done. count = 0.
+2015/10/30  17:07:48  clear addfriend action done. count = 0.
+2015/10/30  17:07:48  clear invite action done. count = 0.
+2015/10/30  17:08:48  release server buffer pool done. count = 0.
+2015/10/30  17:08:48  release client buffer pool done. count = 3.
+2015/10/30  17:08:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:08:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:08:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:08:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:08:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:08:48  clear chat action done. count = 0.
+2015/10/30  17:08:48  clear call action done. count = 0.
+2015/10/30  17:08:48  clear tablepwd action done. count = 0.
+2015/10/30  17:08:48  clear addfriend action done. count = 0.
+2015/10/30  17:08:48  clear invite action done. count = 0.
+2015/10/30  17:09:48  release server buffer pool done. count = 0.
+2015/10/30  17:09:48  release client buffer pool done. count = 3.
+2015/10/30  17:09:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:09:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:09:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:09:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:09:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:09:48  clear chat action done. count = 0.
+2015/10/30  17:09:48  clear call action done. count = 0.
+2015/10/30  17:09:48  clear tablepwd action done. count = 0.
+2015/10/30  17:09:48  clear addfriend action done. count = 0.
+2015/10/30  17:09:48  clear invite action done. count = 0.
+2015/10/30  17:10:48  release server buffer pool done. count = 0.
+2015/10/30  17:10:48  release client buffer pool done. count = 3.
+2015/10/30  17:10:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:10:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:10:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:10:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:10:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:10:48  clear chat action done. count = 0.
+2015/10/30  17:10:48  clear call action done. count = 0.
+2015/10/30  17:10:48  clear tablepwd action done. count = 0.
+2015/10/30  17:10:48  clear addfriend action done. count = 0.
+2015/10/30  17:10:48  clear invite action done. count = 0.
+2015/10/30  17:11:48  release server buffer pool done. count = 0.
+2015/10/30  17:11:48  release client buffer pool done. count = 3.
+2015/10/30  17:11:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:11:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:11:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:11:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:11:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:11:48  clear chat action done. count = 0.
+2015/10/30  17:11:48  clear call action done. count = 0.
+2015/10/30  17:11:48  clear tablepwd action done. count = 0.
+2015/10/30  17:11:48  clear addfriend action done. count = 0.
+2015/10/30  17:11:48  clear invite action done. count = 0.
+2015/10/30  17:12:48  release server buffer pool done. count = 0.
+2015/10/30  17:12:48  release client buffer pool done. count = 3.
+2015/10/30  17:12:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:12:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:12:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:12:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:12:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:12:48  clear chat action done. count = 0.
+2015/10/30  17:12:48  clear call action done. count = 0.
+2015/10/30  17:12:48  clear tablepwd action done. count = 0.
+2015/10/30  17:12:48  clear addfriend action done. count = 0.
+2015/10/30  17:12:48  clear invite action done. count = 0.
+2015/10/30  17:13:48  release server buffer pool done. count = 0.
+2015/10/30  17:13:48  release client buffer pool done. count = 3.
+2015/10/30  17:13:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:13:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:13:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:13:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:13:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:13:48  clear chat action done. count = 0.
+2015/10/30  17:13:48  clear call action done. count = 0.
+2015/10/30  17:13:48  clear tablepwd action done. count = 0.
+2015/10/30  17:13:48  clear addfriend action done. count = 0.
+2015/10/30  17:13:48  clear invite action done. count = 0.
+2015/10/30  17:14:48  release server buffer pool done. count = 0.
+2015/10/30  17:14:48  release client buffer pool done. count = 3.
+2015/10/30  17:14:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:14:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:14:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:14:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:14:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:14:48  clear chat action done. count = 0.
+2015/10/30  17:14:48  clear call action done. count = 0.
+2015/10/30  17:14:48  clear tablepwd action done. count = 0.
+2015/10/30  17:14:48  clear addfriend action done. count = 0.
+2015/10/30  17:14:48  clear invite action done. count = 0.
+2015/10/30  17:15:48  release server buffer pool done. count = 0.
+2015/10/30  17:15:48  release client buffer pool done. count = 3.
+2015/10/30  17:15:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:15:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:15:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:15:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:15:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:15:48  clear chat action done. count = 0.
+2015/10/30  17:15:48  clear call action done. count = 0.
+2015/10/30  17:15:48  clear tablepwd action done. count = 0.
+2015/10/30  17:15:48  clear addfriend action done. count = 0.
+2015/10/30  17:15:48  clear invite action done. count = 0.
+2015/10/30  17:16:48  release server buffer pool done. count = 2.
+2015/10/30  17:16:48  release client buffer pool done. count = 3.
+2015/10/30  17:16:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:16:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:16:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:16:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:16:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:16:48  clear chat action done. count = 0.
+2015/10/30  17:16:48  clear call action done. count = 0.
+2015/10/30  17:16:48  clear tablepwd action done. count = 0.
+2015/10/30  17:16:48  clear addfriend action done. count = 0.
+2015/10/30  17:16:48  clear invite action done. count = 0.
+2015/10/30  17:17:48  release server buffer pool done. count = 0.
+2015/10/30  17:17:48  release client buffer pool done. count = 3.
+2015/10/30  17:17:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:17:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:17:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:17:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:17:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:17:48  clear chat action done. count = 0.
+2015/10/30  17:17:48  clear call action done. count = 0.
+2015/10/30  17:17:48  clear tablepwd action done. count = 0.
+2015/10/30  17:17:48  clear addfriend action done. count = 0.
+2015/10/30  17:17:48  clear invite action done. count = 0.
+2015/10/30  17:18:48  release server buffer pool done. count = 0.
+2015/10/30  17:18:48  release client buffer pool done. count = 3.
+2015/10/30  17:18:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:18:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:18:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:18:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:18:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:18:48  clear chat action done. count = 0.
+2015/10/30  17:18:48  clear call action done. count = 0.
+2015/10/30  17:18:48  clear tablepwd action done. count = 0.
+2015/10/30  17:18:48  clear addfriend action done. count = 0.
+2015/10/30  17:18:48  clear invite action done. count = 0.
+2015/10/30  17:19:48  release server buffer pool done. count = 0.
+2015/10/30  17:19:48  release client buffer pool done. count = 3.
+2015/10/30  17:19:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:19:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:19:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:19:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:19:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:19:48  clear chat action done. count = 0.
+2015/10/30  17:19:48  clear call action done. count = 0.
+2015/10/30  17:19:48  clear tablepwd action done. count = 0.
+2015/10/30  17:19:48  clear addfriend action done. count = 0.
+2015/10/30  17:19:48  clear invite action done. count = 0.
+2015/10/30  17:20:48  release server buffer pool done. count = 0.
+2015/10/30  17:20:48  release client buffer pool done. count = 3.
+2015/10/30  17:20:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:20:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:20:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:20:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:20:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:20:48  clear chat action done. count = 0.
+2015/10/30  17:20:48  clear call action done. count = 0.
+2015/10/30  17:20:48  clear tablepwd action done. count = 0.
+2015/10/30  17:20:48  clear addfriend action done. count = 0.
+2015/10/30  17:20:48  clear invite action done. count = 0.
+2015/10/30  17:21:48  release server buffer pool done. count = 0.
+2015/10/30  17:21:48  release client buffer pool done. count = 3.
+2015/10/30  17:21:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:21:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:21:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:21:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:21:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:21:48  clear chat action done. count = 0.
+2015/10/30  17:21:48  clear call action done. count = 0.
+2015/10/30  17:21:48  clear tablepwd action done. count = 0.
+2015/10/30  17:21:48  clear addfriend action done. count = 0.
+2015/10/30  17:21:48  clear invite action done. count = 0.
+2015/10/30  17:22:48  release server buffer pool done. count = 0.
+2015/10/30  17:22:48  release client buffer pool done. count = 3.
+2015/10/30  17:22:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:22:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:22:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:22:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:22:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:22:48  clear chat action done. count = 0.
+2015/10/30  17:22:48  clear call action done. count = 0.
+2015/10/30  17:22:48  clear tablepwd action done. count = 0.
+2015/10/30  17:22:48  clear addfriend action done. count = 0.
+2015/10/30  17:22:48  clear invite action done. count = 0.
+2015/10/30  17:23:48  release server buffer pool done. count = 0.
+2015/10/30  17:23:48  release client buffer pool done. count = 3.
+2015/10/30  17:23:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:23:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:23:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:23:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:23:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:23:48  clear chat action done. count = 0.
+2015/10/30  17:23:48  clear call action done. count = 0.
+2015/10/30  17:23:48  clear tablepwd action done. count = 0.
+2015/10/30  17:23:48  clear addfriend action done. count = 0.
+2015/10/30  17:23:48  clear invite action done. count = 0.
+2015/10/30  17:24:48  release server buffer pool done. count = 0.
+2015/10/30  17:24:48  release client buffer pool done. count = 3.
+2015/10/30  17:24:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:24:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:24:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:24:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:24:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:24:48  clear chat action done. count = 0.
+2015/10/30  17:24:48  clear call action done. count = 0.
+2015/10/30  17:24:48  clear tablepwd action done. count = 0.
+2015/10/30  17:24:48  clear addfriend action done. count = 0.
+2015/10/30  17:24:48  clear invite action done. count = 0.
+2015/10/30  17:25:48  release server buffer pool done. count = 0.
+2015/10/30  17:25:48  release client buffer pool done. count = 3.
+2015/10/30  17:25:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:25:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:25:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:25:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:25:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:25:48  clear chat action done. count = 0.
+2015/10/30  17:25:48  clear call action done. count = 0.
+2015/10/30  17:25:48  clear tablepwd action done. count = 0.
+2015/10/30  17:25:48  clear addfriend action done. count = 0.
+2015/10/30  17:25:48  clear invite action done. count = 0.
+2015/10/30  17:26:48  release server buffer pool done. count = 0.
+2015/10/30  17:26:48  release client buffer pool done. count = 3.
+2015/10/30  17:26:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:26:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:26:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:26:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:26:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:26:48  clear chat action done. count = 0.
+2015/10/30  17:26:48  clear call action done. count = 0.
+2015/10/30  17:26:48  clear tablepwd action done. count = 0.
+2015/10/30  17:26:48  clear addfriend action done. count = 0.
+2015/10/30  17:26:48  clear invite action done. count = 0.
+2015/10/30  17:27:48  release server buffer pool done. count = 0.
+2015/10/30  17:27:48  release client buffer pool done. count = 3.
+2015/10/30  17:27:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:27:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:27:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:27:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:27:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:27:48  clear chat action done. count = 0.
+2015/10/30  17:27:48  clear call action done. count = 0.
+2015/10/30  17:27:48  clear tablepwd action done. count = 0.
+2015/10/30  17:27:48  clear addfriend action done. count = 0.
+2015/10/30  17:27:48  clear invite action done. count = 0.
+2015/10/30  17:28:48  release server buffer pool done. count = 0.
+2015/10/30  17:28:48  release client buffer pool done. count = 3.
+2015/10/30  17:28:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:28:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:28:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:28:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:28:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:28:48  clear chat action done. count = 0.
+2015/10/30  17:28:48  clear call action done. count = 0.
+2015/10/30  17:28:48  clear tablepwd action done. count = 0.
+2015/10/30  17:28:48  clear addfriend action done. count = 0.
+2015/10/30  17:28:48  clear invite action done. count = 0.
+2015/10/30  17:29:48  release server buffer pool done. count = 0.
+2015/10/30  17:29:48  release client buffer pool done. count = 3.
+2015/10/30  17:29:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:29:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:29:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:29:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:29:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:29:48  clear chat action done. count = 0.
+2015/10/30  17:29:48  clear call action done. count = 0.
+2015/10/30  17:29:48  clear tablepwd action done. count = 0.
+2015/10/30  17:29:48  clear addfriend action done. count = 0.
+2015/10/30  17:29:48  clear invite action done. count = 0.
+2015/10/30  17:30:48  release server buffer pool done. count = 0.
+2015/10/30  17:30:48  release client buffer pool done. count = 3.
+2015/10/30  17:30:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:30:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:30:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:30:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:30:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:30:48  clear chat action done. count = 0.
+2015/10/30  17:30:48  clear call action done. count = 0.
+2015/10/30  17:30:48  clear tablepwd action done. count = 0.
+2015/10/30  17:30:48  clear addfriend action done. count = 0.
+2015/10/30  17:30:48  clear invite action done. count = 0.
+2015/10/30  17:31:48  release server buffer pool done. count = 0.
+2015/10/30  17:31:48  release client buffer pool done. count = 3.
+2015/10/30  17:31:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:31:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:31:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:31:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:31:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:31:48  clear chat action done. count = 0.
+2015/10/30  17:31:48  clear call action done. count = 0.
+2015/10/30  17:31:48  clear tablepwd action done. count = 0.
+2015/10/30  17:31:48  clear addfriend action done. count = 0.
+2015/10/30  17:31:48  clear invite action done. count = 0.
+2015/10/30  17:32:48  release server buffer pool done. count = 0.
+2015/10/30  17:32:48  release client buffer pool done. count = 3.
+2015/10/30  17:32:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:32:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:32:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:32:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:32:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:32:48  clear chat action done. count = 0.
+2015/10/30  17:32:48  clear call action done. count = 0.
+2015/10/30  17:32:48  clear tablepwd action done. count = 0.
+2015/10/30  17:32:48  clear addfriend action done. count = 0.
+2015/10/30  17:32:48  clear invite action done. count = 0.
+2015/10/30  17:33:48  release server buffer pool done. count = 0.
+2015/10/30  17:33:48  release client buffer pool done. count = 3.
+2015/10/30  17:33:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:33:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:33:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:33:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:33:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:33:48  clear chat action done. count = 0.
+2015/10/30  17:33:48  clear call action done. count = 0.
+2015/10/30  17:33:48  clear tablepwd action done. count = 0.
+2015/10/30  17:33:48  clear addfriend action done. count = 0.
+2015/10/30  17:33:48  clear invite action done. count = 0.
+2015/10/30  17:34:48  release server buffer pool done. count = 0.
+2015/10/30  17:34:48  release client buffer pool done. count = 3.
+2015/10/30  17:34:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:34:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:34:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:34:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:34:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:34:48  clear chat action done. count = 0.
+2015/10/30  17:34:48  clear call action done. count = 0.
+2015/10/30  17:34:48  clear tablepwd action done. count = 0.
+2015/10/30  17:34:48  clear addfriend action done. count = 0.
+2015/10/30  17:34:48  clear invite action done. count = 0.
+2015/10/30  17:35:48  release server buffer pool done. count = 0.
+2015/10/30  17:35:48  release client buffer pool done. count = 3.
+2015/10/30  17:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:35:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:35:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:35:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:35:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:35:48  clear chat action done. count = 0.
+2015/10/30  17:35:48  clear call action done. count = 0.
+2015/10/30  17:35:48  clear tablepwd action done. count = 0.
+2015/10/30  17:35:48  clear addfriend action done. count = 0.
+2015/10/30  17:35:48  clear invite action done. count = 0.
+2015/10/30  17:36:48  release server buffer pool done. count = 0.
+2015/10/30  17:36:48  release client buffer pool done. count = 3.
+2015/10/30  17:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:36:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:36:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:36:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:36:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:36:48  clear chat action done. count = 0.
+2015/10/30  17:36:48  clear call action done. count = 0.
+2015/10/30  17:36:48  clear tablepwd action done. count = 0.
+2015/10/30  17:36:48  clear addfriend action done. count = 0.
+2015/10/30  17:36:48  clear invite action done. count = 0.
+2015/10/30  17:37:48  release server buffer pool done. count = 0.
+2015/10/30  17:37:48  release client buffer pool done. count = 3.
+2015/10/30  17:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:37:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:37:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:37:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:37:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:37:48  clear chat action done. count = 0.
+2015/10/30  17:37:48  clear call action done. count = 0.
+2015/10/30  17:37:48  clear tablepwd action done. count = 0.
+2015/10/30  17:37:48  clear addfriend action done. count = 0.
+2015/10/30  17:37:48  clear invite action done. count = 0.
+2015/10/30  17:38:48  release server buffer pool done. count = 0.
+2015/10/30  17:38:48  release client buffer pool done. count = 3.
+2015/10/30  17:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:38:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:38:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:38:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:38:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:38:48  clear chat action done. count = 0.
+2015/10/30  17:38:48  clear call action done. count = 0.
+2015/10/30  17:38:48  clear tablepwd action done. count = 0.
+2015/10/30  17:38:48  clear addfriend action done. count = 0.
+2015/10/30  17:38:48  clear invite action done. count = 0.
+2015/10/30  17:39:48  release server buffer pool done. count = 0.
+2015/10/30  17:39:48  release client buffer pool done. count = 3.
+2015/10/30  17:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:39:48  ===========Clear User ROOM_CHAT,system,mapCount=0 
+2015/10/30  17:39:48  KickOffDeadAtMorning() called. deadtime = 100 mins, static = 1.
+2015/10/30  17:39:48  CleanStales() called. deadtime = 360 mins, count = 0.
+2015/10/30  17:39:48  CloseStiffs() called. stifftime = 300 secs, count = 0.
+2015/10/30  17:39:48  clear chat action done. count = 0.
+2015/10/30  17:39:48  clear call action done. count = 0.
+2015/10/30  17:39:48  clear tablepwd action done. count = 0.
+2015/10/30  17:39:48  clear addfriend action done. count = 0.
+2015/10/30  17:39:48  clear invite action done. count = 0.
